@@ -31,6 +31,6 @@ git add .
 git commit -m 'adding changes'
 git push origin master
 {% endhighlight %}
-So it's pretty much the same.  The hidden `.git` folder in the directory (created by `git clone`) seems to remember whatever I need.  
+So it's pretty much the same.  The hidden `.git` folder in the directory (created by `git clone`) seems to remember whatever I need. 
 
 [githubp]: https://help.github.com/articles/using-jekyll-with-pages "github page"
