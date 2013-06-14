@@ -21,10 +21,16 @@ cd pbaylis.github.io
 Next I made the required changes to the repository and uploaded them using:
 {% highlight bash %}
 git add .
-git commit
+git commit -m 'first upload'
 git push origin master
 {% endhighlight %}
-N.B.: `origin` and `master` seem to be some kind of `git clone`-created aliases that I can use.  Now that I've created this already, I wonder what happens when I want to push the updates I've made here?
-
+N.B.: `origin` and `master` seem to be some kind of `git clone`-created aliases that I can use.  Now that I've created this already, I wonder what happens when I want to push the updates I've made here?  To test this, I'll load up a new terminal session and head back to the directory:
+{% highlight bash %}
+cd git/pbaylis.github.io
+git add .
+git commit -m 'adding changes'
+git push origin master
+{% endhighlight %}
+So it's pretty much the same.  The hidden `.git` folder in the directory (created by `git clone`) seems to remember whatever I need.  
 
 [githubp]: https://help.github.com/articles/using-jekyll-with-pages "github page"
