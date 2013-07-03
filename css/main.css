@@ -63,7 +63,7 @@ ul.posts span {
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 56em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -99,12 +99,26 @@ ul.posts span {
   color: #aaa;
 }
 
+
+.site .sidebar {
+  min-height:100%;
+  width:20%;
+  float:left;
+  clear:both;
+}
+
+.site #home {
+  float:right;
+  width: 75%;
+}
+
 .site .footer {
   font-size: 80%;
   color: #666;
   border-top: 4px solid #eee;
   margin-top: 2em;
   overflow: hidden;
+  clear: both;
 }
 
 .site .footer .contact {

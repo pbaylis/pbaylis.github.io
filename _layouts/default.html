@@ -17,12 +17,21 @@
 
         <div class="container">
           <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-              <a class="extra" href="/">home</a>
-            </div>
+	      <div class="sidebar">
+		<div class="header">
+		  <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+		  <a class="extra" href="/">home</a>
+		</div>
+		<a href="blogs.html">blogalog</a>
+		<br>
+		<a href="cv.html">cv</a>
+		<br>
+		<a href="about.html">about</a>
+	      </div>
 
-                {{ content }}
+	      <div id="home">
+              {{ content }}
+	      </div>
 
             <div class="footer">
               <div class="contact">
