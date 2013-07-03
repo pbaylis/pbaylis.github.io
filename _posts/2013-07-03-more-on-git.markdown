@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "More on git"
-date:   2013-06-14
+date:   2013-07-03
 categories: jekyll git
 ---
 
