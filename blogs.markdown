@@ -3,8 +3,13 @@ layout: default
 title: Patrick Baylis
 ---
 
-<img src="images/bishoptent.jpg" alt="Bishop" width="25%" height="25%">
+<center>
+<img src="images/dvkilns.jpg" alt="Death Valley Kilns" width="60%" height="60%" class="shadow" />
+</center>
+<br>
 
+***
+<br>
 <h1>Blog Posts</h1>
 <ul class="posts">
   {% for post in site.posts %}
