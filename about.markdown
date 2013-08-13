@@ -7,8 +7,8 @@ title: Patrick Baylis | about
 <img src="images/tokyowindow.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
 </center>
 ***
-##About me (briefly)
-- Third-year graduate student at UC-Berkeley in Agricultural and Resource Economics
-- Research assistent to Severin Borenstein at the Energy Institute @ Haas
-- Semi-professional Ultimate Frisbee player
-- Amateur brewer, cellist, climber, surfer, backpacker
+I write code and think about energy economics.  
+
+“Mary had a little lamb, its fleece electrostatic <br>
+And everywhere Mary went, the lights became erratic.” <br>
+-_David Foster Wallace, Infinite Jest_

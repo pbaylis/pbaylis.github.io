@@ -6,10 +6,5 @@ title: Patrick Baylis
 <center>
 <img src="images/bishoptent.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
 </center>
-
 ***
-
-##TODO##
-* Change the font
-* Figure out spacing
-* Linking problem for the posts pages - because they're in a different directory
+“This planet has - or rather had - a problem, which was this: most of the people living on it were unhappy for pretty much of the time. Many solutions were suggested for this problem, but most of these were largely concerned with the movement of small green pieces of paper, which was odd because on the whole it wasn't the small green pieces of paper that were unhappy.” _Douglas Adams, The Hitchhiker's Guide to the Galaxy_
