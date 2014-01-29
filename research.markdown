@@ -12,7 +12,7 @@ My work is primarily recognizable as environmental economics with a focus on hum
 
 **Working Papers**
 
-*Refinery pollution and respiratory health* <br>
+<u>Refinery pollution and respiratory health*</u> <br>
 Petroleum refining is a significant source of air pollutants, including sulfur dioxide, nitrogen oxides, volatile organic compounds, and fine particulates, among many others. Using confidential health data and an original dataset on recent refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
 
 *The lightbulb revolution* <br>
