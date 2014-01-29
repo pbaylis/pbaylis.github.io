@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Patrick Baylis
+title: Patrick Baylis | Welcome!
 ---
 
 <center>
