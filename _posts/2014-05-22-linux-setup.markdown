@@ -6,6 +6,7 @@ categories: linux
 ---
 
 Here be dragons. And my notes on my Lubuntu setup. Why Lubuntu and not Ubuntu?
+
 1. It's a server - I don't need Unity.
    1. I don't even think I like Unity, anywho.
 2. Older computer.
