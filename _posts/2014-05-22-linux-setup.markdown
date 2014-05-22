@@ -21,11 +21,14 @@ Overview:
   - `M-x package-install RET org`
   - `M-x package-install RET auctex`
   - More later: AucTex, LaTeX, R, etc.
-- 'sudo apt-get install fonts-inconsolata'
+- `sudo apt-get install fonts-inconsolata`
+- `sudo apt-get install xrdp`
+  - Use [this](http://ubuntuforums.org/showthread.php?t=2170790) to fix checkered login problem
+  - I get a PolicyKit error on remote login, but I'm not sure how to fix that
 - Beautiful Soup
   - `sudo apt-get install python-bs4`
   - `sudo apt-get install python-lxml` (for better parsing)
--`sudo pip install tweepy`
+- `sudo pip install tweepy`
 - Google Chrome
   - 32-bit .deb from [Chrome site](https://www.google.com/intl/en_us/chrome/browser/)
 - Dropbox
