@@ -13,6 +13,7 @@ Here be dragons. And my notes on my Lubuntu setup. Why Lubuntu and not Ubuntu?
 3. Next laptop will use Lubuntu for battery savings.
 
 Overview:
+
 - Lubuntu 14.04 LTS
 - `git`
   - `sudo apt-get install git`
