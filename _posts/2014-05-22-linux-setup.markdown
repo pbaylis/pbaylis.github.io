@@ -18,8 +18,8 @@ Overview:
 - `sudo apt-get install git`
 - `sudo apt-get install guake`
 - `sudo apt-get install emacs24`
-  - 'M-x package-install RET org'
-  - 'M-x package-install RET auctex'
+  - `M-x package-install RET org`
+  - `M-x package-install RET auctex`
   - More later: AucTex, LaTeX, R, etc.
 - 'sudo apt-get install fonts-inconsolata'
 - Beautiful Soup
