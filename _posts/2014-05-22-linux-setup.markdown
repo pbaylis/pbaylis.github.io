@@ -15,16 +15,17 @@ Here be dragons. And my notes on my Lubuntu setup. Why Lubuntu and not Ubuntu?
 Overview:
 
 - Lubuntu 14.04 LTS
-- `git`
-  - `sudo apt-get install git`
-- `guake`
-  - `sudo apt-get install guake`
-- `emacs24`
-  - `sudo apt-get install emacs24`
+- `sudo apt-get install git`
+- `sudo apt-get install guake`
+- `sudo apt-get install emacs24`
+  - 'M-x package-install RET org'
+  - 'M-x package-install RET auctex'
   - More later: AucTex, LaTeX, R, etc.
+- 'sudo apt-get install fonts-inconsolata'
 - Beautiful Soup
   - `sudo apt-get install python-bs4`
   - `sudo apt-get install python-lxml` (for better parsing)
+-`sudo pip install tweepy`
 - Google Chrome
   - 32-bit .deb from [Chrome site](https://www.google.com/intl/en_us/chrome/browser/)
 - Dropbox
