@@ -33,3 +33,6 @@ Overview:
   - 32-bit .deb from [Chrome site](https://www.google.com/intl/en_us/chrome/browser/)
 - Dropbox
   - 32-bit .deb from [Dropbox site](https://www.dropbox.com/install?os=lnx)
+- Monitorix
+  - Used a .deb, see installation instructions [here](http://www.monitorix.org/doc-debian.html).
+  - After installation, local URL to access monitorix is [here](http://127.0.0.1:8080/monitorix). Not sure if it's accessible from outside? Kind of cool, though. 
