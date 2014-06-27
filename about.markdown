@@ -7,7 +7,7 @@ title: Patrick Baylis | about
 <img src="images/tokyowindow.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
 </center>
 ***
-I'm an environmental economist with a coding problem. I like to think about interesting problems that affect people and policy, and 
+I'm an environmental economist with a coding problem. I like to think about interesting problems that affect people and policy, in particular those that relate to energy.
 
 Currently, I'm a graduate student at UC-Berkeley in the [Agricultural and Resource Economics](http://areweb.berkeley.edu) program, and I work for a variety of all-star professors at the [Energy Institute at Haas](https://ei.haas.berkeley.edu).
 
