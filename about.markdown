@@ -9,9 +9,7 @@ title: Patrick Baylis | about
 ***
 I think about answering questions and solving problems. More (but not much more) specifically, I'm an environmental economist with a coding problem. Currently, I'm a graduate student at UC-Berkeley in the [Agricultural and Resource Economics](http://areweb.berkeley.edu) program, and I work for a variety of all-star professors at the [Energy Institute at Haas](https://ei.haas.berkeley.edu).
 
-Before I started graduate school, I did sustainability consulting for [Ackerstein Sustainability](http://www.ackersteinsustainability.com). I play ultimate frisbee for [Revolver](http://www.revolverultimate.com), a San Francisco team. But, enough about me. I'm a proud graduate of [Carleton College](http://www.carleton.edu), and a native of Madison, Wisconsin.
-
-
+Before I started graduate school, I did sustainability consulting for [Ackerstein Sustainability](http://www.ackersteinsustainability.com). I play ultimate frisbee for [Revolver](http://www.revolverultimate.com), a San Francisco team. I'm a proud graduate of [Carleton College](http://www.carleton.edu), and a native of Madison, Wisconsin.
 
 “Mary had a little lamb, its fleece electrostatic <br>
 And everywhere Mary went, the lights became erratic.” <br>
