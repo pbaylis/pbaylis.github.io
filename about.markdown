@@ -7,7 +7,13 @@ title: Patrick Baylis | about
 <img src="images/tokyowindow.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
 </center>
 ***
-I write code and think about environmental economics. I also play frisbee and try to build stuff.
+I think about answering questions and solving problems. More (but not much more) specifically, I'm an environmental economist with a coding problem. Currently, I'm a graduate student at UC-Berkeley in the [Agricultural and Resource Economics](http://areweb.berkeley.edu) program, and I work for a variety of all-star professors at the [Energy Institute at Haas](https://ei.haas.berkeley.edu).
+
+Before I started graduate school, I did sustainability consulting for [Ackerstein Sustainability](http://www.ackersteinsustainability.com). I'm a proud graduate of [Carleton College](http://www.carleton.edu), and a native of Madison, Wisconsin.
+
+I also ultimate frisbee for Revolver [Revolver](http://www.revolverultimate.com), a San Francisco team.
+
+But, enough about me.
 
 “Mary had a little lamb, its fleece electrostatic <br>
 And everywhere Mary went, the lights became erratic.” <br>
