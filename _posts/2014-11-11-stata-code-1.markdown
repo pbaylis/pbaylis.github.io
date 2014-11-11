@@ -47,6 +47,7 @@ end
 
 <pre>
   <code>
+  <font size = 6>
 capture program drop combinehourplots
 program define combinehourplots
   syntax, filestitles(string asis) saving(string) [title(string)]
@@ -85,4 +86,4 @@ end
     end
   </code>
 </pre>
-
+</font>
