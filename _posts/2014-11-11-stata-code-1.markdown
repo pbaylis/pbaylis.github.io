@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Some useful Stata code"
+date:   2014-11-11
+categories: stata
+---
+
+dropquickly - marginal speedup:
+    capture program drop dropquickly
+    program define dropquickly
+      syntax varlist
+      tokenize `varlist'
+      local dropcommand "drop if `1' ==."
+      macro shift
+      foreach var of varlist `*' {
+        local dropcommand "`dropcommand' | `var' ==."
+      }
+      di "Running `dropcommand'"
+      `dropcommand'
+    end
