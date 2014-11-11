@@ -5,10 +5,72 @@ date:   2014-11-11
 categories: stata
 ---
 
-dropquickly - marginal speedup when dropping obs due to multiple missing vars:
+Perhaps useful only to me?
+
+*hourplots* Plot hourly data more attractively.
+<pre>
+  <code>
+capture program drop hourplots
+program define hourplots
+  syntax [varlist] [using/] [, xaxisvar(name) xaxislabel(string)  saving(string) title(string) *]
+  preserve
+  if "`saving'" != "" {
+    local savingcmd `"saving("`saving'", replace)"'
+  }
+  
+  if "`using'" == "" {
+    di "Not using a premade file, plotting `varlist'"
+    regsave `varlist', ci
+    gen index = _n
+    label variable index " `xaxislabel'"
+    line coef ci_lower ci_upper index, `options' ///
+      title("`title'") `savingcmd' ///
+      xlabel(0(1)23) legend(off) graphregion(color(white)) ///
+      xline(16 19, lcolor(erose)) yline(0, lcolor(gs12)) lcolor(edkblue eltblue eltblue) lpattern(solid dash dash)
+  }
+  else {
+    di "Loading and plotting from `using'..."
+    use "`using'", clear
+    label variable `xaxisvar' " `xaxislabel'"
+    line coef ci_lower ci_upper `xaxisvar', `options' ///
+      title("`title'") `savingcmd' ///
+      xlabel(0(1)23) legend(off) graphregion(color(white)) ///
+      xline(16 19, lcolor(erose)) yline(0, lcolor(gs12)) lcolor(edkblue eltblue eltblue) lpattern(solid dash dash)
+  }
+
+  restore
+end
+  </code>
+</pre>
+
+*combinehourplots* Combine plots from `hourplots`
 
 <pre>
-  <code class="ruby">
+  <code>
+capture program drop combinehourplots
+program define combinehourplots
+  syntax, filestitles(string asis) saving(string) [title(string)]
+  local maintitle "`title'"
+  foreach rsfile of local filestitles {
+    tokenize `rsfile', parse("&")
+    local file "`1'"
+    local title "`3'"
+    di "`file' - `title'"
+    hourplots using "`file'", ///
+    saving("${dest}tmp/`title'.gph") xaxisvar(hour) xaxislabel("Hour of day") ytitle("kW") title(`title')
+    local combinecmd `" `combinecmd' "${dest}tmp/`title'.gph" "'
+  }
+  graph combine `combinecmd', ///
+    rows(2) altshrink xcommon ycommon graphregion(color(white)) title(`maintitle')
+  graph export "`saving'", replace
+end 
+  </code>
+</pre>
+
+*dropquickly* Drop observations missing any variable marginally faster. Nice for big datasets where flexibility in which variables to check is important. Useful everywhere else.
+
+<pre>
+  <code>
     capture program drop dropquickly
     program define dropquickly
       syntax varlist
@@ -24,4 +86,3 @@ dropquickly - marginal speedup when dropping obs due to multiple missing vars:
   </code>
 </pre>
 
-hourplots - plot hourly data attractively:
