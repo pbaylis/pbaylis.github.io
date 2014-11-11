@@ -8,6 +8,7 @@ categories: stata
 Perhaps useful only to me?
 
 *hourplots* Plot hourly data more attractively.
+<font size = 2>
 <pre>
   <code>
 capture program drop hourplots
@@ -47,7 +48,7 @@ end
 
 <pre>
   <code>
-  <font size = 6>
+
 capture program drop combinehourplots
 program define combinehourplots
   syntax, filestitles(string asis) saving(string) [title(string)]
