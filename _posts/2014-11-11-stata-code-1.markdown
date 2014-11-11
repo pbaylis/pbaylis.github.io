@@ -5,7 +5,10 @@ date:   2014-11-11
 categories: stata
 ---
 
-dropquickly - marginal speedup:
+dropquickly - marginal speedup when dropping obs due to multiple missing vars:
+
+<pre>
+  <code class="ruby">
     capture program drop dropquickly
     program define dropquickly
       syntax varlist
@@ -18,3 +21,7 @@ dropquickly - marginal speedup:
       di "Running `dropcommand'"
       `dropcommand'
     end
+  </code>
+</pre>
+
+hourplots - plot hourly data attractively:
