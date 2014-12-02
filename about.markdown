@@ -2,10 +2,11 @@
 layout: default
 title: Patrick Baylis | about
 ---
-<h1>About</h1>
+<div float="right"><h1>About</h1></div>
 ***
+<img src="images/pbaylis_head.jpg" alt="headshot" height="160px" class="shadow" float="left" />
+I'm an environmental economist with a coding problem. I use the tools of computer science to map out our relationship with the natural world. Currently, I'm a graduate student at UC-Berkeley in the [Agricultural and Resource Economics](http://areweb.berkeley.edu) program, and I work for a variety of all-star professors at the [Energy Institute at Haas](https://ei.haas.berkeley.edu). 
 
-I'm an environmental economist with a coding problem. I use the tools of computer science to map out our relationship with the natural world. Currently, I'm a graduate student at UC-Berkeley in the [Agricultural and Resource Economics](http://areweb.berkeley.edu) program, and I work for a variety of all-star professors at the [Energy Institute at Haas](https://ei.haas.berkeley.edu). <img src="images/pbaylis_head.jpg" alt="headshot" height="160px" class="shadow" />
 
 Before I started graduate school, I did sustainability consulting for [Ackerstein Sustainability](http://www.ackersteinsustainability.com). 
 
