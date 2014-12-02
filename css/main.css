@@ -70,6 +70,10 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+.sidebar a {
+  font-size: 120%;
+}
+
 .site {
   font-size: 100%;
   text-align: justify;
