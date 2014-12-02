@@ -4,7 +4,7 @@ title: Patrick Baylis | Welcome!
 ---
 
 <center>
-<img src="images/pbaylis_head.jpg" alt="headshot" height="320px" class="shadow" />
+<img src="images/bishoptent.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
 </center>
 ***
 

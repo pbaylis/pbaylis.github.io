@@ -2,18 +2,14 @@
 layout: default
 title: Patrick Baylis | Code
 ---
-
-<center>
-<img src="images/dvflower.jpg" alt="Death Valley Flower" width="60%" height="60%" class="shadow" />
-</center>
+<h2>Code</h2>
 ***
-
 Herein be code that I've found useful. 
 
-*Stata*
+**Stata**
 
-*R*
+**R**
 
-*Python*
+**Python**
 
-*SQL*
+**SQL**

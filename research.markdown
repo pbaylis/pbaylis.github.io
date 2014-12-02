@@ -2,10 +2,7 @@
 layout: default
 title: Patrick Baylis | Research
 ---
-
-<center>
-<img src="images/dvflower.jpg" alt="Death Valley Flower" width="60%" height="60%" class="shadow" />
-</center>
+<h2>Research</h2>
 ***
 
 My work is primarily recognizable as environmental economics with a focus on human outcomes. 
