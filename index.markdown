@@ -9,8 +9,6 @@ title: Patrick Baylis | Welcome!
 ***
 
 <div align="center">
-
-__Environmental economist__ and __tent owner__
-
+<b>Environmental economist</b> and <b>tent owner</b>
 </div>
 
