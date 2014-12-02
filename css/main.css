@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 18px Cambria, Georgia, serif;
+  font: 14px Cambria, Georgia, serif;
   line-height: 33px;
   text-align: center;
 }
@@ -25,9 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #00a; }
+a         { color: #708090; }
+a:hover   { color: #708090; }
+a:visited { color: #708090; }
 
 table {
   font-size: inherit;
