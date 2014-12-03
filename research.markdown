@@ -4,12 +4,12 @@ title: Patrick Baylis | research
 ---
 <h1 align="right">research</h1>
 ***
-**Working Papers**
+**Work in progress**
 
 <u>*Refinery pollution and respiratory health*</u><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
 <center>
-<img src="images/projects/resphealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
+<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
 </center>
 
 <u>*Happiness and temperature*</u><br>
