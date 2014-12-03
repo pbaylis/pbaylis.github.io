@@ -2,9 +2,9 @@
 layout: default
 title: Patrick Baylis | code
 ---
-<h1 align="right">ceaching</h1>
+<h1 align="right">code</h1>
 ***
-Herein be code that I've found useful. 
+Herein be code that be useful. Mayhaps. 
 
 **Stata**
 
