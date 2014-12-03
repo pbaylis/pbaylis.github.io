@@ -3,7 +3,7 @@ layout: default
 title: Patrick Baylis
 ---
 <center>
-<img src="images/bishoptent.jpg" alt="Bishop" height="20em" class="shadow" />
+<img src="images/bishoptent.jpg" alt="Bishop" height="240px" class="shadow" />
 </center>
 ***
 
