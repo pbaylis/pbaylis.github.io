@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Patrick Baylis
+title: Patrick Baylis | posts
 ---
-<h2>Blogs</h2>
+<h1 align="right">posts</h1>
 ***
-#Posts
-
 <ul class="posts">
   {% for post in site.posts %}
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Patrick Baylis | Welcome!
+title: Patrick Baylis
 ---
-
 <center>
-<img src="images/bishoptent.jpg" alt="Bishop" width="60%" height="60%" class="shadow" />
+<img src="images/bishoptent.jpg" alt="Bishop" height="20em" class="shadow" />
 </center>
 ***
 

@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Patrick Baylis | Research
+title: Patrick Baylis | research
 ---
-<h2>Research</h2>
+<h1 align="right">research</h1>
 ***
-
-My work is primarily recognizable as environmental economics with a focus on human outcomes. 
-
 **Working Papers**
 
 <u>*Refinery pollution and respiratory health*</u><br>

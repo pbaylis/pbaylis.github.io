@@ -2,6 +2,6 @@
 layout: default
 title: Patrick Baylis | cv
 ---
-<h2>CV</h2>
+<h1 align="right">cv</h1>
 ***
 

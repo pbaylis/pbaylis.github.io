@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Patrick Baylis | Code
+title: Patrick Baylis | code
 ---
-<h2>Code</h2>
+<h1 align="right">ceaching</h1>
 ***
 Herein be code that I've found useful. 
 
