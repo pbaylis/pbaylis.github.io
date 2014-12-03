@@ -2,10 +2,7 @@
 layout: default
 title: Patrick Baylis
 ---
-
-<center>
-<img src="images/dvkilns.jpg" alt="Death Valley Kilns" width="60%" height="60%" class="shadow" />
-</center>
+<h2>Blogs</h2>
 ***
 #Posts
 
