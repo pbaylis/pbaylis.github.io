@@ -9,4 +9,4 @@ I'm an environmental economist with a coding problem. I use the tools of compute
 
 Before I started graduate school, I did sustainability consulting for [Ackerstein Sustainability](http://www.ackersteinsustainability.com). 
 
-I currently play ultimate frisbee for [Revolver](http://www.revolverultimate.com), a San Francisco team. I'm a proud graduate of [Carleton College](http://www.carleton.edu), and a native of Madison, Wisconsin.
+I play ultimate frisbee for [Revolver](http://www.revolverultimate.com), a San Francisco team. I'm a proud graduate of [Carleton College](http://www.carleton.edu), and a native of Madison, Wisconsin.
