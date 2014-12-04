@@ -9,4 +9,4 @@ categories: causality
 
 [NYTimes: Run to stay young](http://well.blogs.nytimes.com/2014/12/03/run-to-stay-young/)
 
-All you need to know is that the treatment group was people who volunteered themselves as runners.
+All you need to know is that the treatment group was composed of people who *volunteered* themselves as runners.
