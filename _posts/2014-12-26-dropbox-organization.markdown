@@ -25,11 +25,11 @@ To do this, I've restructured my Dropbox folder as follows:
 			- e.g. 01_Current/Joe/Project A
 	2. 02_Archive: Archived projects by year most recently updated
 		- Same structure as Current projects
-		- e.g. Archived projects/2013/Joe/...
+		- e.g. 02_Archive/2013/Joe/...
 	3. 03_Ideas: Project ideas 
 		- Nascent ideas that have some associated documents in them in base directory
 			- Once they're more developed, move to 01_Current
-		- Archive/... (no year necessary)
+		- Once ideas are stale, move to subdirectory Archive/... (no year necessary)
 	4. 04_Notes
 		- Includes notes like, work.md, and so on
 		- Toolbox: math, econometrics, etc. handouts that I've downloaded and want to save
