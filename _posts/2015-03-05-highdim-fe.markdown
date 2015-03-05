@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "High dimensional fixed effects in Stata and R"
-date:   2014-03-05
+date:   2015-03-05
 categories: econometrics, fixed effects
 ---
 
