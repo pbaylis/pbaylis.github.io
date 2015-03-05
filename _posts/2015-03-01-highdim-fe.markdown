@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "High dimensional fixed effects in Stata and R"
-date:   2015-03-05
+title:  "Estimating dimensional fixed effects in Stata and R"
+date:   2015-03-01
 categories: econometrics, fixed effects
 ---
 
-# Notes on packages to estimate high-dimensional FE
-
-## Stata
+# Stata
 
 - reghdfe: Implements and improves algorithm from Guimaraes and Portugal (2010) by porting to mata and avoiding bottlenecks
     + https://github.com/sergiocorreia/reghdfe
@@ -17,18 +15,18 @@ categories: econometrics, fixed effects
     + Only 2 sets of *non-overlapping* FE
     + Somewhat buggy, requires dropping missing obs
 
-## R
+# R
 
 - felm (package mle): Implements Method of Alternating Projections, per Guire (2013) and Guimaraes and Portugal (2010), who call it the Gauss-Siegel algorithm.
     - Ex.: felm(data = data.df, formula = ln_hedon_score ~ tmean | statecounty_fips + statemonth |0| statecounty_fips))
 
-### Upgrading BLAS 
+## Upgrading BLAS 
 
 - Basic Linear Algebra Subprograms: can be upgraded in R to be more efficient
 - http://blog.nguyenvq.com/blog/2014/11/10/optimized-r-and-python-standard-blas-vs-atlas-vs-openblas-vs-mkl/
 - http://mran.revolutionanalytics.com/download/
 
-## Speed tests
+# Speed tests
 
-- Right now, twoway > felm > reghdfe, although felm and reghdfe are quite close
+- twoway > felm > reghdfe, although felm and reghdfe are quite close
     + Twoway is often faster but limited in some situations (see above)

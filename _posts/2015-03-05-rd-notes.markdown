@@ -5,9 +5,7 @@ date:   2015-03-05
 categories: econometrics, regression discontinuity
 ---
 
-# RD gotchas
-
-## Be careful with the bins
+# Beware teh bins
 
 - The graphical approach of RD (as advocated by M. Anderson in ARE213) is nice, but it's not a strict analogue of the regression
 - Have to be careful when the bins can contain whole groups of demeaned observation
@@ -15,7 +13,7 @@ categories: econometrics, regression discontinuity
     + Taking the mean of a bunch of sets of demeaned observations = 0
 - If I want to display the regression analogue, just use the residual variation from all RHS variables except for f(X), the function of the running var, and T, the treatment assignment (which is a function of X - if X >= threshold)
 
-## Intuition of RD
+# Intuition
 
 - Still, this was a nice opportunity for me to think through some of the implications of RD.
 - Nothing special about RD. It's just declaring that assignment within a certain range is as good as random, but also including the running variable to acknowledge that the slight change in the running variable could affect the outcome and must be controlled for
