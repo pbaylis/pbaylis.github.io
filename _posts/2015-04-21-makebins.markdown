@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RD gotchas"
+title:  "Making bins in Stata"
 date:   2015-04-21
 categories: econometrics, stata
 ---
