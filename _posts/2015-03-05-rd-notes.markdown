@@ -5,7 +5,7 @@ date:   2015-03-05
 categories: econometrics, regression discontinuity
 ---
 
-# Beware teh bins
+# Beware the bins
 
 - The graphical approach of RD (as advocated by M. Anderson in ARE213) is nice, but it's not a strict analogue of the regression
 - Have to be careful when the bins can contain whole groups of demeaned observation
