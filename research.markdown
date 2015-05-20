@@ -35,7 +35,7 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 <img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
 </center> -->
 
-
+<div id="popup">
 <a href="index.html">Home<span><img src="images/projects/projectload.png" alt="Little Egret"></span></a>
 
 
