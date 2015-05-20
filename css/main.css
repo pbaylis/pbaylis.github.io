@@ -179,11 +179,11 @@ ul {
   position:relative;
 }
 
-#popup {
+#popup a, #popup a:visited {
   color: #000!important;
   text-decoration: underline;
-  font-weight: bold;
-  font-size: 120%;
+  /*font-weight: bold;*/
+  font-size: 100%;
 }
 
 #popup a img { display:none; }
