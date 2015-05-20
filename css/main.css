@@ -180,7 +180,7 @@ ul {
 #popup { color: #000; background-color: #c0c0c0; }
 
 #popup a, #popup a:visited {
-  position: relative;
+/*  position: relative;
   display: block;
   width: 130px;
   line-height: 30px;
@@ -190,7 +190,7 @@ ul {
   border: 1px solid #666;
   text-decoration: none;
   font-size: 1em;
-  font-weight: bold;
+  font-weight: bold;*/
 }
 
 #popup a span {
