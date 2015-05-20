@@ -26,14 +26,14 @@ Using a panel of disaggregated electricity demand consumption data that covers t
 <img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" />
 </center>
 
-<u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u>(with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
+<u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
 <u>*Refinery pollution and respiratory health*</u><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
-<center>
+<!-- <center>
 <img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
-</center>
+</center> -->
 
 
 
