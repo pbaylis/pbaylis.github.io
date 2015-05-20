@@ -182,15 +182,7 @@ ul {
 #popup a, #popup a:visited {
   position: relative;
   display: block;
-/*  width: 130px;
-  line-height: 30px;
-  text-align: right;
-  padding: 0 10px;
-  margin: 0;
-  border: 1px solid #666;
-  text-decoration: none;
-  font-size: 1em;
-  font-weight: bold;*/
+  font-weight: bold;
 }
 
 #popup a span {
