@@ -5,7 +5,7 @@ title: Patrick Baylis | teaching
 <h1 align="right">teaching</h1>
 ***
 
-<img src="images/teaching/are212_2.png" alt="ARE 212" width="280px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
+<img src="images/teaching/are212_2.png" alt="ARE 212" width="240px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
 
 **ARE 212**<br>
 
