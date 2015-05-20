@@ -196,6 +196,13 @@ ul {
   z-index: 1;
 }
 
+figure, figcaption {
+  display: block;
+  font-style: italic;
+  font-variant: small-caps;
+  text-align:center;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
