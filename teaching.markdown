@@ -5,10 +5,10 @@ title: Patrick Baylis | teaching
 <h1 align="right">teaching</h1>
 ***
 
-**ARE 212**<br>
+<img src="images/teaching/are212_2.png" alt="ARE 212" width="360px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
+<img src="images/teaching/are212_1.png" alt="ARE 212" width="360px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
 
-<img src="images/teaching/are212_2.png" alt="ARE 212" height="240px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
-<img src="images/teaching/are212_1.png" alt="ARE 212" height="240px" class="shadow" style="float:left; margin:10px 10px 10px 10px;" />
+**ARE 212**<br>
 
 In Spring 2014, I was the Graduate Student Instructor (GSI) for ARE212: Multiple Equation Estimation, taught by the inestimable [Max Auffhammer](http://are.berkeley.edu/~auffhammer/Maximilian_Auffhammer/Welcome.html). 
 
