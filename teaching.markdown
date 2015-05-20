@@ -5,8 +5,8 @@ title: Patrick Baylis | teaching
 <h1 align="right">teaching</h1>
 ***
 
-<figure>
-<img src="images/teaching/are212_2.png" title="Wage data correlations" width="320" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
+<figure style="float:right; margin:10px 10px 10px 10px;">
+<img src="images/teaching/are212_2.png" title="Wage data correlations" width="320" class="shadow" />
   <figcaption>Wage data correlations</figcaption>
 </figure> 
 
