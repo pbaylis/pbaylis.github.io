@@ -176,9 +176,9 @@ ul {
 /*HOVER POPUP LINKS*/
 
 /*hoverpopups type 1*/
-/*
-#popup { color: #000; background-color: #c0c0c0; }
 
+/*#popup { color: #000; background-color: #c0c0c0; }
+*/
 #popup a, #popup a:visited {
   position: relative;
   display: block;
@@ -191,7 +191,7 @@ ul {
   text-decoration: none;
   font-size: 1em;
   font-weight: bold;
-}*/
+}
 
 #popup a span {
   display: none;
