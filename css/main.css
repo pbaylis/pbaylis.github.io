@@ -180,11 +180,13 @@ ul {
 }
 
 #popup a img { display:none; }
+
 #popup a:hover img { 
   display: block; 
   position: absolute;
   top: 20px;
   left: 20px;
+  z-index: 10;
 }
 
 /*****************************************************************************/
