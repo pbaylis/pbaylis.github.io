@@ -6,6 +6,8 @@ title: Patrick Baylis | research
 ***
 
 **Working papers**<br>
+
+
 <u>*Temperature and Temperament*</u><br>
 Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change.
 <center>
@@ -21,6 +23,8 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 **Work in progress**
 
 <u>*Projecting the Impact of Climate Change on US Electricity Load*</u> (with [Max Auffhammer](http://www.auffhammer.com/))<br>
+<div id="popup">
+<a href=" ">Temperature and Temperament<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a><br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 <center>
 <img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" />
