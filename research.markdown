@@ -6,16 +6,12 @@ title: Patrick Baylis | research
 ***
 
 **Working papers**<br>
-
-
-<u>*Temperature and Temperament*</u><br>
+<div id="popup">
+<a href="">Temperature and Temperament<img src="images/projects/temptemp2.png" alt="Temperature and Temperament" height="360px" class="shadow" /></a></div>
 Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change.
-<center>
-<img src="images/projects/temptemp2.png" alt="Temperature and Temperament" height="360px" class="shadow" />
-</center>
 
 <div id="popup">
-<a href="">Critical gas: measuring the bicycle use response to gas prices<img src="images/projects/bike.png" alt="Critical gas" height="360px" class="shadow" /></a></div>
+<a href="">Critical gas: Measuring the bicycle use response to gas prices<img src="images/projects/bike.png" alt="Critical gas" height="360px" class="shadow" /></a></div>
 An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
 
 **Work in progress**
@@ -26,10 +22,8 @@ Using a panel of disaggregated electricity demand consumption data that covers t
 <u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
-<u>*Refinery pollution and respiratory health*</u><br>
+<div id="popup">
+<a href=" ">Refinery pollution and respiratory health<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" /></div>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
-<!-- <center>
-<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
-</center> -->
 
 
