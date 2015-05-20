@@ -177,7 +177,10 @@ ul {
 
 
 #popup a img { display:none; }
-#popup a:hover img { display:block; }
+#popup a:hover img { 
+  display: block; 
+  position: absolute;
+}
 
 /*****************************************************************************/
 /*
