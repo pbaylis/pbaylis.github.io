@@ -2,6 +2,8 @@
 layout: default
 title: Patrick Baylis
 ---
+<h1 align="right">home</h1>
+***
 
 <img src="images/pbaylis_head_bw.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
 
