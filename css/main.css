@@ -179,7 +179,7 @@ ul {
 
 /*#popup { color: #000; background-color: #c0c0c0; }
 */
-#popup a, #popup a:visited .paperlink {
+#popup a .paperlink, #popup a:visited .paperlink {
   position: relative;
   display: block;
   font-weight: bold;
