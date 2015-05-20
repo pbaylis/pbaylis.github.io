@@ -22,7 +22,7 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 
 **Work in progress**
 <div id="popup">
-<a href=" " class="paperlink">Projecting the Impact of Climate Change on US Electricity Load<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow"  /></span></a> (with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)</div>
+<a href=" " class="paperlink">Projecting the Impact of Climate Change on US Electricity Load<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a> </div> (with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
 <u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
