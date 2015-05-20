@@ -23,7 +23,9 @@ Using a panel of disaggregated electricity demand consumption data that covers t
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
 <div id="popup">
-<a href=" ">Refinery pollution and respiratory health<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" /></div>
+<a href=" ">Refinery pollution and respiratory health<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" /></a></div>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
+
+<br> <br> <br> 
 
 
