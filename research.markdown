@@ -29,6 +29,3 @@ We use natural variation in wildfire occurance to identify the inefficiency crea
 <a href=" ">Refinery pollution and respiratory health<img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" /></a></span><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
 
-<br> <br> <br> 
-
-
