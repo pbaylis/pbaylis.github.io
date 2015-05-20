@@ -36,6 +36,6 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 </center> -->
 
 <div id="popup">
-<a href="index.html">Home<span><img src="images/projects/projectload.png" alt="Little Egret"></span></a>
+<a href="index.html">Home<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a>
 
 
