@@ -179,13 +179,20 @@ ul {
   position:relative;
 }
 
+#popup {
+  color: #000;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 120%;
+}
+
 #popup a img { display:none; }
 
 #popup a:hover img { 
   display: block; 
-  position: fixed;
-  top: 30%;
-  left: 30%;
+  position: absolute;
+  top: 20px;
+  left: 20px;
   z-index: 1;
 }
 
