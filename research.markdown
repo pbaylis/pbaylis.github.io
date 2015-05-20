@@ -14,11 +14,9 @@ Using a geographically and temporally dense corpus of Twitter status updates wit
 <img src="images/projects/temptemp2.png" alt="Temperature and Temperament" height="360px" class="shadow" />
 </center>
 
-<u>*Critical gas: measuring the bicycle use response to gas prices*</u><br>
+<div id="popup">
+<a href="">Critical gas: measuring the bicycle use response to gas prices<img src="images/projects/bike.png" alt="Critical gas" height="360px" class="shadow" /></a></div>
 An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
-<center>
-<img src="images/projects/bike.png" alt="Critical gas" height="360px" class="shadow" />
-</center>
 
 **Work in progress**
 <div id="popup">
@@ -33,8 +31,5 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 <!-- <center>
 <img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" />
 </center> -->
-
-<div id="popup">
-<a href="index.html">Home<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a>
 
 
