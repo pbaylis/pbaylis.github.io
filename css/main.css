@@ -175,6 +175,9 @@ ul {
 
 /*HOVER POPUP LINKS*/
 
+#popup {
+  position:relative;
+}
 
 #popup a img { display:none; }
 #popup a:hover img { 
