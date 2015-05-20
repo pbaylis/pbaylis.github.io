@@ -6,8 +6,8 @@ title: Patrick Baylis | research
 ***
 
 **Working papers**<br>
-<div id="popup">
-<a href="">Temperature and Temperament<img src="images/projects/temptemp2.png" alt="Temperature and Temperament" height="360px" class="shadow" /></a></div>
+<span id="popup">
+<a href="">Temperature and Temperament<img src="images/projects/temptemp2.png" alt="Temperature and Temperament" height="360px" class="shadow" /></a></span>
 Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change.
 
 <div id="popup">
@@ -19,7 +19,8 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 <a href=" ">Projecting the Impact of Climate Change on US Electricity Load<img src="images/projects/projectload.png" alt="Projecting load" height="420px" class="shadow" /></a> (with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)</div>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
-<u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
+<div id="popup">
+<a href=" ">Wildfire, Climate Change, and Moral Hazard in Adaptation</a>(with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))</div>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
 <div id="popup">
