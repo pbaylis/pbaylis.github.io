@@ -22,13 +22,9 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 
 **Work in progress**
 
-<u>*Projecting the Impact of Climate Change on US Electricity Load*</u> (with [Max Auffhammer](http://www.auffhammer.com/))<br>
 <div id="popup">
-<a href=" ">Temperature and Temperament<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a><br>
+<a href=" ">Projecting the Impact of Climate Change on US Electricity Load<span><img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" /></span></a></div> (with [Max Auffhammer](http://www.auffhammer.com/))<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
-<center>
-<img src="images/projects/projectload.png" alt="Projecting load" height="360px" class="shadow" />
-</center>
 
 <u>*Wildfire, Climate Change, and Moral Hazard in Adaptation*</u> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
