@@ -183,9 +183,9 @@ ul {
 
 #popup a:hover img { 
   display: block; 
-  position: relative;
-  top: 200px;
-  left: 200px;
+  position: fixed;
+  top: 30%;
+  left: 30%;
   z-index: 1;
 }
 
