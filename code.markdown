@@ -6,7 +6,7 @@ title: Patrick Baylis | code
 ***
 
 <figure style="float:right; margin:10px 10px 10px 10px;">
-<img src="images/makebins.png" width="140" title="Regression using makebins.ado" class="shadow" />
+<img src="images/makebins.png" width="120" title="Regression using makebins.ado" class="shadow" />
   <figcaption>Regression using makebins.ado</figcaption>
 </figure> 
 
