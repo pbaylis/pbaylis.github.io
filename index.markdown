@@ -10,7 +10,7 @@ title: Patrick Baylis
 **Ph.D. Candidate, UC-Berkeley ARE** <br> (2011-present)
 
 **Research interests** <br>
-Environmental economics, applied econometrics, climate change economics, machine-learning and econometrics
+Environmental economics, climate change economics, energy economics, machine-learning and econometrics
 
 **Short bio** <br>
 I'm a Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), specializing in environmental and climate change economics. I specialize in developing new datasets to answer questions of foundational importance to environmental economics. My research supplements more traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics.
