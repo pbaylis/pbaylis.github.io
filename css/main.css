@@ -179,16 +179,17 @@ ul {
   position:relative;
 }
 
-#popup a, #popup a:visited {
+/*#popup a, #popup a:visited {
   color: #000!important;
   text-decoration: underline;
   /*font-weight: bold;*/
   font-size: 100%;
 }
+*/
 
-#popup a img { display:none; }
+#popup img { display:none; }
 
-#popup a:hover img { 
+#popup :hover img { 
   display: block; 
   position: absolute;
   top: 20px;
