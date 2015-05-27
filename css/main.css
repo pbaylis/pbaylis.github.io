@@ -187,7 +187,9 @@ ul {
 }
 */
 
-#popup img { display:none; }
+#popup img { display:none; 
+border: 10px;
+}
 
 /*#popup *:hover img { 
   display: block; 
