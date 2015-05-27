@@ -180,16 +180,16 @@ ul {
 }
 
 #popme { display:none; 
-border: 10px;
 }
 
-/*#popup *:hover img { 
+
+#popup *:hover img { 
   display: block; 
   position: absolute;
   top: 20px;
   left: 20px;
   z-index: 1;
-}*/
+}
 
 /*#popup a, #popup a:visited {
   color: #000!important;
