@@ -7,24 +7,24 @@ title: Patrick Baylis | research
 
 ##Working papers
 
-###Temperature and Temperament
+<emph>Temperature and Temperament</emph><br>
 <img src="images/projects/temptemp2.png"/><br>
 Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change.
 
-###Critical gas: Measuring the bicycle use response to gas prices
+<emph>Critical gas: Measuring the bicycle use response to gas prices</emph><br>
 <img src="images/projects/bike.png" alt="Critical gas" height="360px" class="shadow" /><br>
 An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
 
 ## Works in progress
 
-<h3>Projecting the Impact of Climate Change on US Electricity Load</h3>(with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)
+<emph>Projecting the Impact of Climate Change on US Electricity Load</emph>(with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)<br>
 <img src="images/projects/projectload.png" alt="Projecting load" height="420px" class="shadow" /> <br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
-<h3>Wildfire, Climate Change, and Moral Hazard in Adaptation</h3> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
+<emph>Wildfire, Climate Change, and Moral Hazard in Adaptation</emph> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
-###Refinery pollution and respiratory health
+<emph>Refinery pollution and respiratory health</emph><br>
 <img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px" class="shadow" /><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
 
