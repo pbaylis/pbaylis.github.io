@@ -7,8 +7,8 @@ title: Patrick Baylis | research
 
 ##Working papers
 
-<em>Temperature and Temperament</em><br>
-<span id="popup"><em>TESTTEXT<img src="images/projects/temptemp2.jpg"/></em></span><br>
+<span id="popup"><em>Temperature and Temperament</em>
+<img src="images/projects/temptemp2.jpg"/></span><br>
 Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change.
 
 <em>Critical gas: Measuring the bicycle use response to gas prices</em><br>

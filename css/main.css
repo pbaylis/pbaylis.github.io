@@ -198,7 +198,7 @@ ul {
 }
 
 
-#popup *:hover img { 
+#popup:hover img { 
   display: block; 
   position: absolute;
   top: 20px;
