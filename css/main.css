@@ -28,12 +28,18 @@ h2 {
 h3, h4, h5, h6  {
   font-size: 110%; 
   text-decoration:underline;
-  display:inline;
   }
 
 h1, h2 { margin-bottom: 1em; }
 
 p { margin: 1em 0; }
+
+em  {
+  font-size: 110%; 
+  text-decoration:underline;
+  font-style: italic;
+  }
+
 
 a         { color: #708090; text-decoration: none; }
 a:hover   { color: #708090; text-decoration: none; }
