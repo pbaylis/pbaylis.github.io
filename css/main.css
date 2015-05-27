@@ -179,14 +179,6 @@ ul {
   position:relative;
 }
 
-/*#popup a, #popup a:visited {
-  color: #000!important;
-  text-decoration: underline;
-  /*font-weight: bold;*/
-  font-size: 100%;
-}
-*/
-
 #popme { display:none; 
 border: 10px;
 }
@@ -198,6 +190,14 @@ border: 10px;
   left: 20px;
   z-index: 1;
 }*/
+
+/*#popup a, #popup a:visited {
+  color: #000!important;
+  text-decoration: underline;
+  /*font-weight: bold;
+  font-size: 100%;
+}
+*/
 
 figure, figcaption {
   display: block;
