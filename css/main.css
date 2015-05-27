@@ -189,13 +189,13 @@ ul {
 
 #popup img { display:none; }
 
-#popup :hover img { 
+/*#popup :hover img { 
   display: block; 
   position: absolute;
   top: 20px;
   left: 20px;
   z-index: 1;
-}
+}*/
 
 figure, figcaption {
   display: block;
