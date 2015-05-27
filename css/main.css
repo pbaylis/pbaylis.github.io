@@ -36,6 +36,7 @@ p { margin: 1em 0; }
 
 em  {
   font-size: 110%; 
+  font-style: normal;
   text-decoration:underline;
   }
 
@@ -203,7 +204,6 @@ ul {
   position: absolute;
   top: 20px;
   left: 20px;
-  padding:1px;
   border:1px solid #021a40;
   z-index: 1;
 }
