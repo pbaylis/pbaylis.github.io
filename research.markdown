@@ -29,7 +29,7 @@ An extensive series of robustness checks enhances confidence in the results. Not
 
 ##Working papers
 
-<span id="popup"><em>Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs</em> (with Peter Cappers</a>, Meredith Fowlie, Anna Spurlock, Annika Todd, and Catherine Wolfram)
+<span id="popup"><em>Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs</em> (with [Peter Cappers][cappers], [Meredith Fowlie][fowlie], [Anna Spurlock][spurlock], [Annika Todd][todd], and [Catherine Wolfram][wolfram])
 <img src="images/projects/defaultbias.png"/></span><br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
@@ -38,12 +38,25 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 
 ##Works in progress
 
-<span id="popup"><em>Projecting the Impact of Climate Change on US Electricity Load</em><img src="images/projects/projectload.png" alt="Projecting load" height="420px"/></span> (with <a href="http://www.auffhammer.com/">Max Auffhammer</a>)<br>
+<span id="popup"><em>Projecting the Impact of Climate Change on US Electricity Load</em><img src="images/projects/projectload.png" alt="Projecting load" height="420px"/></span> (with [Max Auffhammer][auffhammer])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
-<span><em>Wildfire, Climate Change, and Moral Hazard in Adaptation</em></span> (with [Judson Boomhower](https://are.berkeley.edu/candidate/Judson-Boomhower))<br>
+<span><em>Wildfire, Climate Change, and Moral Hazard in Adaptation</em></span> (with [Judson Boomhower][boomhower])<br>
 We use natural variation in wildfire occurance to identify the inefficiency created by imperfect pass-through of firefighting costs in the western United States. Along the way, we contribute to the literature by producing a more complete dataset of wildfire over the last three decades.
 
 <span id="popup"><em>Refinery pollution and respiratory health</em><img src="images/projects/respHealth.jpg" alt="Refinery pollution and respiratory health" height="360px"/></span><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
+
+<!-- Co-author links -->
+
+[auffhammer]: http://www.auffhammer.com/ "Max Auffhammer"
+[boomhower]: https://are.berkeley.edu/candidate/Judson-Boomhower "Judson Boomhower"
+[cappers]: http://emp.lbl.gov/staff/peter-cappers       "Peter Cappers"
+[fowlie]: http://nature.berkeley.edu/~fowlie/  "Meredith Fowlie"
+[spurlock]: http://eetd.lbl.gov/people/c-anna-spurlock "Anna Spurlock"
+[todd]: http://www.annikatodd.com/ "Annika Todd"
+[wolfram]: http://facultybio.haas.berkeley.edu/faculty-list/wolfram-catherine "Catherine Wolfram"
+
+
+
 
