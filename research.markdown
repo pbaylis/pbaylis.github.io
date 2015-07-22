@@ -12,7 +12,7 @@ title: Patrick Baylis | research
 
 ##Job Market Paper
 <span id="popup"><em>Temperature and Temperament</em>
-<img src="images/projects/temptemp3.png" width="420px" /></span><br>
+<img src="images/projects/temptemp3.png" width="600px" /></span><br>
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
