@@ -7,7 +7,6 @@ title: Patrick Baylis | research
 
 <!-- TODO 
 - Change the look a bit so that these resemble citations.
-- Add links to co-authors for Default Bias.
 - Add links to papers
 -->
 
@@ -29,8 +28,8 @@ An extensive series of robustness checks enhances confidence in the results. Not
 
 ##Working papers
 
-<span id="popup"><em>Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs</em> (with [Peter Cappers][cappers], [Meredith Fowlie][fowlie], [Anna Spurlock][spurlock], [Annika Todd][todd], and [Catherine Wolfram][wolfram])
-<img src="images/projects/defaultbias.png"/></span><br>
+<span id="popup"><em>Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs</em>
+<img src="images/projects/defaultbias.png"/></span> (with [Peter Cappers][cappers], [Meredith Fowlie][fowlie], [Anna Spurlock][spurlock], [Annika Todd][todd], and [Catherine Wolfram][wolfram])<br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
 <span id="popup"><em>Critical gas: Measuring the bicycle use response to gas prices</em><img src="images/projects/bike.png" alt="Critical gas" height="360px"/></span><br>
