@@ -28,7 +28,7 @@ An extensive series of robustness checks enhances confidence in the results. Not
 
 ##Working papers
 
-<span id="popup"><em>Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs</em>
+<span id="popup"><em>[Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs][defaultbias]</em>
 <img src="images/projects/defaultbias.png"/></span> (with [Peter Cappers][cappers], [Meredith Fowlie][fowlie], [Anna Spurlock][spurlock], [Annika Todd][todd], and [Catherine Wolfram][wolfram])<br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
@@ -56,6 +56,7 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 [todd]: http://www.annikatodd.com/ "Annika Todd"
 [wolfram]: http://facultybio.haas.berkeley.edu/faculty-list/wolfram-catherine "Catherine Wolfram"
 
-
+<!-- Paper links -->
+[defaultbias]: http://conference.nber.org/confer//2015/SI2015/EEE/Cappers_Fowlie_Spurlock_Todd_Wolfram_Baylis.pdf
 
 
