@@ -6,6 +6,7 @@ categories: research, productivity
 ---
 
 Work rules:
+
 - Beginning of arrival in new space: 30 minutes of uninterrupted work
 - No e-mail, no paying CC bills, definitely no dicking around on the internet. Momentum is important!
 - After the frenzy, 25min on, 5 min off (pomodoro)
