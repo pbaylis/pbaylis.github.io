@@ -19,7 +19,7 @@ Nice to have:
 - Indexable/searchable
 - Nice feature
 
-The options I know of are BibDesk, DocEar, Mendeley, Papers, and Zotero. I've used Zotero for the past couple of years, and it's been pretty good. I don't love the interface or the note-taking, and it can be a little finicky with storing PDFs. But overall decent. Recently, I ran up against the space limit of my online storage. Before biting the bullet and paying for more, I decided this was a good opportunity to look into other options. I ruled out BibDesk  due to it being only for OS X, Papers because its reputation as a commercial product is that it isn't well-supported, and DocEar because the mind-map thing looked excessive relative to what I need and the interface was, in general, pretty ugly. That leaves Zotero, the devil that I know, and Mendeley, the one I don't.
+The options I know of are [BibDesk][bibdesk], [DocEar][docear], [Mendeley][mendeley], [Papers][papers], and [Zotero][zotero]. I've used Zotero for the past couple of years, and it's been pretty good. I don't love the interface or the note-taking, and it can be a little finicky with storing PDFs. But overall decent. Recently, I ran up against the space limit of my online storage. Before biting the bullet and paying for more, I decided this was a good opportunity to look into other options. I ruled out BibDesk  due to it being only for OS X, Papers because its reputation as a commercial product is that it isn't well-supported, and DocEar because the mind-map thing looked excessive relative to what I need and the interface was, in general, pretty ugly. That leaves Zotero, the devil that I know, and Mendeley, the one I don't.
 
 Tomorrow begins my first foray into Mendeley. 
 
