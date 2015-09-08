@@ -8,6 +8,7 @@ categories: bibliography, reference manager, zotero, docear, bibdesk, mendeley, 
 Part of my job is to read a lot of other people's research. I have a bad memory, so keep tracking of that research is pretty hard, unless I write something down. But in general, I tend to write things down on physical copies of the paper (which I physically lose), text files (which I lose on my computer), or in my head (which might as well be lost the second they are written). I also have no desire to ever write out a bibliography by hand again. What I need is a reference manager with the following required and nice-to-have features:
 
 Required features:
+
     + Cross-platform: I work on both Windows and OS X computers, must be able to operate on both.
     + Syncable: Same reason as above.
     + Store notes on papers
@@ -16,6 +17,7 @@ Required features:
     + Exports .bib files usable by LaTeX
 
 Nice to have:
+
     + Indexable/searchable
     + Nice feature
 
