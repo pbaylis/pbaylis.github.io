@@ -9,17 +9,17 @@ Part of my job is to read a lot of other people's research. I have a bad memory,
 
 Required features:
 
-    + Cross-platform: I work on both Windows and OS X computers, must be able to operate on both.
-    + Syncable: Same reason as above.
-    + Store notes on papers
-    + Browser integration
-    + Stores PDFs
-    + Exports .bib files usable by LaTeX
+- Cross-platform: I work on both Windows and OS X computers, must be able to operate on both.
+- Syncable: Same reason as above.
+- Store notes on papers
+- Browser integration
+- Stores PDFs
+- Exports .bib files usable by LaTeX
 
 Nice to have:
 
-    + Indexable/searchable
-    + Nice feature
+- Indexable/searchable
+- Nice feature
 
 The options I know of are [BibDesk][bibdesk], [DocEar][docear], [Mendeley][mendeley], [Papers][papers], and [Zotero][zotero]. I've used Zotero for the past couple of years, and it's been pretty good. I don't love the interface or the note-taking, and it can be a little finicky with storing PDFs. But overall decent. Recently, I ran up against the space limit of my online storage. Before biting the bullet and paying for more, I decided this was a good opportunity to look into other options. I ruled out BibDesk  due to it being only for OS X, Papers because its reputation as a commercial product is that it isn't well-supported, and DocEar because the mind-map thing looked excessive relative to what I need and the interface was, in general, pretty ugly. That leaves Zotero, the devil that I know, and Mendeley, the one I don't.
 
