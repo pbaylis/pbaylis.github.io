@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reference manager showdown"
-date:   2015-09-07
+date:   2015-09-08
 categories: bibliography, reference manager, zotero, docear, bibdesk, mendeley, papers
 ---
 
