@@ -14,9 +14,9 @@ I've looked these up at least ten times.
 
 Dereference a string using its value label:
 
-    br if foreign == "Foreign":origin
+    count if foreign == "Foreign":origin
 
 Retrieve the value label from a numeric:
 
-    di `:label origin 0'
+    di "`:label origin 0'"
 
