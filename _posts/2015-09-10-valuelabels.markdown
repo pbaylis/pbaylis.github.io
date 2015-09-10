@@ -12,11 +12,11 @@ I've looked these up at least ten times.
 
 `origin` is our value label. 
 
-1. Dereference a string using its value label:
+Dereference a string using its value label:
 
     br if foreign == "Foreign":origin
 
-2. Retrieve the value label from a numeric:
+Retrieve the value label from a numeric:
 
     di `:label origin 0'
 
