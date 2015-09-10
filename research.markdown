@@ -32,9 +32,11 @@ An extensive series of robustness checks enhances confidence in the results. Not
 <img src="images/projects/defaultbias.png"/></span> (with [Peter Cappers][cappers], [Meredith Fowlie][fowlie], [Anna Spurlock][spurlock], [Annika Todd][todd], and [Catherine Wolfram][wolfram])<br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
-<span id="popup"><em>Critical gas: Measuring the bicycle use response to gas prices</em><img src="images/projects/bike.png" alt="Critical gas" height="360px"/></span><br>
+<!-- <span id="popup"><em>Critical gas: Measuring the bicycle use response to gas prices</em><img src="images/projects/bike.png" alt="Critical gas" height="360px"/></span><br>
 An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
 
+Don't include the above unless I have a good, polished WP.
+ -->
 ##Works in progress
 
 <span id="popup"><em>Projecting the Impact of Climate Change on US Electricity Load</em><img src="images/projects/projectload.png" alt="Projecting load" height="420px"/></span> (with [Max Auffhammer][auffhammer])<br>
