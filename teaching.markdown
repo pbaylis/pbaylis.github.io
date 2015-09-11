@@ -15,7 +15,7 @@ title: Patrick Baylis | teaching
 In Spring 2014, I was the Graduate Student Instructor (GSI) for ARE212: Multiple Equation Estimation, taught by the inestimable [Max Auffhammer](http://are.berkeley.edu/~auffhammer/Maximilian_Auffhammer/Welcome.html). 
 
 <figure style="float:left; margin:10px 10px 10px 10px;">
-<img src="images/teaching/are212_2.png" title="Wage data correlations" width="240" class="shadow" />
+<img src="images/teaching/are212_2.png" title="Wage data correlations" width="320" class="shadow" />
   <figcaption>Wage data correlations</figcaption>
 </figure> 
 
