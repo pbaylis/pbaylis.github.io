@@ -7,7 +7,7 @@ title: Patrick Baylis | teaching
 
 
 <figure style="float:left; margin:10px 10px 10px 10px;">
-<img src="images/baylis_teaching.png" title="Teaching" width="320" class="shadow" />
+<img src="images/baylis_teaching.jpg" title="Teaching" width="320" class="shadow" />
 </figure> 
 
 **ARE 212**<br>
