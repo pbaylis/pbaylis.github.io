@@ -11,8 +11,7 @@ title: Patrick Baylis | research
 -->
 
 ##Job Market Paper
-<span id="popup"><em>Temperature and Temperament</em>
-<img src="images/projects/temptemp3.png" width="600px" /></span><br>
+<em>Temperature and Temperament</em><br>
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
@@ -20,6 +19,10 @@ title: Patrick Baylis | research
 <!-- ? -->
 
 <!-- LONG -->
+<figure style="float:left; margin:10px 10px 10px 10px;">
+<img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
+  <figcaption>Effect of temperature on human sentiment</figcaption>
+</figure> 
 A growing literature in environmental economics documents the causal effects of climate on a range of economic outcomes. Since many of these outcomes are directly or indirectly dependent on human behavior, understanding the effects of temperature on affect, a critical element in decision-making, is essential for the design of appropriate policy responses to climate change. 
 
 In service of that goal, this paper builds a rich, novel dataset on human emotion to document the causal effects of weather on affect. By using a geographically and temporally dense corpus of Twitter status updates with over 600 million observations and a set of both human- and machine-trained sentiment analysis algorithms, I estimate a consistent non-linear relationship: affect rises slightly in temperature from about 0 F to 20 F, is stable between 20 F and 60 F, and slopes downward above 60 F. These results are stylistically similar to findings on the effect of temperature on other outcomes, such as income and crime. Taken on their own, they have implications for both our understanding of the effect of environment on human behavior and suggest a channel for many of the documented effects of climate change. 
