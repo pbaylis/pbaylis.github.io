@@ -5,9 +5,7 @@ title: Patrick Baylis
 <h1 align="right">home</h1>
 ***
 
-<a class="example-image-link" href="images/smiling_dbgranite.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
-
-<img src="images/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
+<a href="images/smiling_dbgranite.jpg"><img src="images/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" /></a>
 
 **Ph.D. Candidate, UC-Berkeley ARE** <br> (2011-present)
 
