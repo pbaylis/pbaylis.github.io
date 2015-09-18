@@ -5,7 +5,7 @@ title: Patrick Baylis
 <h1 align="right">home</h1>
 ***
 
-<a href="images/smiling_dbgranite.jpg" height="300px" data-lightbox="image-1" data-title="My caption">Image #1</a>
+<a href="images/smiling_dbgranite.jpg" data-lightbox="image-1" data-title="My caption">Image #1</a>
 
 <img src="images/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" />
 
