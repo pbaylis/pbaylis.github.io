@@ -10,6 +10,8 @@ title: Patrick Baylis | code
   <figcaption>Table using makebins.ado</figcaption>
 </figure> 
 
+[spatial_interpolation.R](https://gist.github.com/pbaylis/7a19861b4e4544c9eef4): R code to spatially interpolation weather station data to a grid. Sample files included. Uses inverse-distance weighting, but could be easily changed. Does a little plotting using ggplot2.
+
 [gen_heat_index.ado](https://gist.github.com/pbaylis/5cc38e5c8415d87b9b28): Stata program to get heat index for given dry bulb temperature and relative humidity. Follows the heat index [wiki](https://en.wikipedia.org/wiki/Heat_index).
 
 [gen_relative_humidity.ado](https://gist.github.com/pbaylis/15cdc8fd59e1888705ae) Stata program to get relative humidity given temperature and dew point. 
