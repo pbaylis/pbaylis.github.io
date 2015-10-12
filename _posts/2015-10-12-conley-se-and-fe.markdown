@@ -13,10 +13,9 @@ However, I have a lot of data and multiple dimensions of fixed effects, so I am 
 
 Instead, I use `hdfe`, which does the demeaning for reghdfe, to partial out my fixed effects. Then I run Sol's code on the demeaned data. I've posted the code without context below, to give an example:
     
-    // Demean with hdfe
-    hdfe afinn_score_std tmean_b*, clear absorb(gridNum statemonth) tol(0.001) keepvars(gridNum date lat lng)
+    hdfe afinn_score_std tmean_b*, clear absorb(gridNum statemonth) \\\
+        tol(0.001) keepvars(gridNum date lat lng)
 
-    // ols_spatial_HAC.ado syntax
-    //  ols_spatial_HAC Yvar Xvarlist, lat(latvar) lon(lonvar) Timevar(tvar) Panelvar(pvar) [DISTcutoff(#) LAGcutoff(#) bartlett DISPlay star dropvar]
-    ols_spatial_HAC afinn_score_std tmean_b*, lat(lat) lon(lng) time(date) panel(gridNum) distcutoff(16) lagcutoff(7) disp
+    ols_spatial_HAC afinn_score_std tmean_b*, lat(lat) lon(lng) \\\
+        time(date) panel(gridNum) distcutoff(16) lagcutoff(7) disp
 
