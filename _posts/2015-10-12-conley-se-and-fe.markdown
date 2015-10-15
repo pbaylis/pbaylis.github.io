@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conley standard errors and high dimensional fixed effects"
-date:   2015-09-10
+date:   2015-10-12
 categories: Conley, standard errors, high dimensional, fixed effects
 ---
 
@@ -19,3 +19,4 @@ Instead, I use `hdfe`, which does the demeaning for reghdfe, to partial out my f
     ols_spatial_HAC afinn_score_std tmean_b*, lat(lat) lon(lng) \\\
         time(date) panel(gridNum) distcutoff(16) lagcutoff(7) disp
 
+This appears to be much too slow for my dataset (>2 million obs at different locations, more than a year of daily data). I found an updated version in R from [Thiemo Fetzer again](http://freigeist.devmag.net/economics/936-spatial-temporal-autocorrelation-correction-with-r-conley.html), but this too isn't fast enough for my needs, even though the matrix operations are implemented in C++. I may try to write my own (in Julia?) at some point, but for now the best solution will be to estimate them for a subset of my data.
