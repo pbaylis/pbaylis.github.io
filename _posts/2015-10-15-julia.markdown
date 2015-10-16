@@ -17,3 +17,10 @@ Suddenly learning Julia became a lot more interesting. I figured, heck, I know P
 A big part of the issue is that I'm facing is not in getting `FixedEffectModels.jl` to work, it's just getting my huge dataset formatted in a way that I can run the darn thing. In principle I could use [DataRead.jl](https://github.com/WizardMac/DataRead.jl), but I haven't figured out how to compile ReadStat on a PC (the server I'm using). So instead I'm limited to either importing via cleaned CSV or SQLite database. SQLite is much faster but I have to redo all of the cleaning, while CSV is painfully slow and runs out of memory because Julia gets the types wrong (see: "Naturalness"). So now I'm learning how to import the data through SQLite in chunks, type it properly, and merge in the datasets I use in my Stata cleaning process. All before I get to run a single regression. And three weeks before my JMP needs to be done. 
 
 But Julia is a nice tool to have, and it seems to have some momentum. The community appears to be tremendous. 
+
+More notes (I feel like I'm learning a ton about language design):
+
+- Arrays that accept NAs are nice, but a devil's bargain. Typed arrays are both faster and consume MUCH less memory, since Any arrays need to contain a pointer for each unit, plus the data itself must be stored somewhere. 
+- If your date is in a fixed format, a custom (read: dumb) parser is way better than the smart parser provided in Julia.
+- Pay close attention your types, if you care about memory allocation. Strings are huge. Floats are remarkably small (and [so cool!](http://floating-point-gui.de/)). Int choices can be important.
+- God help you if you have an NA hiding in your arrays. The `@data` macro is pretty much worthless. The folks working on Julia is still figuring out how to deal with NA values. DataArrays, which CAN (in general) handle NAs even when typed, have trouble important NA values. I ended up getting around a problem by temporarily converting all NAs in an Array{Any} variable to a real number so that I could convert it to a DataArray{Float16} before re-adding the NAs. The Nullable package is supposed to be a fix for this.
