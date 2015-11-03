@@ -43,7 +43,7 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 
 Don't include the above unless I have a good, polished WP.
  -->
-##Works in progress
+##Work in progress
 
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
