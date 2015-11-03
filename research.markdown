@@ -49,7 +49,7 @@ Don't include the above unless I have a good, polished WP.
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
   <figcaption>Load projections</figcaption>
 </figure> 
-<em>Projecting the Impact of Climate Change on US Electricity Load</em> (with [Max Auffhammer][auffhammer])<br>
+<em>Projecting the Impact of Climate Change on US Electricity Load</em> (with [Max Auffhammer][auffhammer] and [Catie Hausman][hausman])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
 <span><em>Wildfire, Climate Change, and Moral Hazard in Adaptation</em></span> (with [Judson Boomhower][boomhower])<br>
@@ -68,6 +68,7 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 [boomhower]: https://are.berkeley.edu/candidate/Judson-Boomhower "Judson Boomhower"
 [cappers]: http://emp.lbl.gov/staff/peter-cappers       "Peter Cappers"
 [fowlie]: http://nature.berkeley.edu/~fowlie/  "Meredith Fowlie"
+[hausman]: http://fordschool.umich.edu/faculty/catherine-hausman "Catie Hausmn"
 [spurlock]: http://eetd.lbl.gov/people/c-anna-spurlock "Anna Spurlock"
 [todd]: http://www.annikatodd.com/ "Annika Todd"
 [wolfram]: http://facultybio.haas.berkeley.edu/faculty-list/wolfram-catherine "Catherine Wolfram"
