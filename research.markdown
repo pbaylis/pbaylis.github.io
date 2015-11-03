@@ -49,7 +49,7 @@ Don't include the above unless I have a good, polished WP.
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
   <figcaption>Load projections</figcaption>
 </figure> 
-<em>Projecting the Impact of Climate Change on US Electricity Load</em> (with [Max Auffhammer][auffhammer] and [Catie Hausman][hausman])<br>
+<em>Projecting the Impact of Climate Change on US Electricity Load</em> (with [Max Auffhammer][auffhammer] and [Catherine Hausman][hausman])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to simulate changes in future electricity demand.
 
 <span><em>Wildfire, Climate Change, and Moral Hazard in Adaptation</em></span> (with [Judson Boomhower][boomhower])<br>
@@ -61,6 +61,13 @@ We use natural variation in wildfire occurance to identify the inefficiency crea
 </figure> 
 <em>Refinery pollution and respiratory health</em><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.  
+
+<figure style="float:right; margin:10px 10px 10px 10px;">
+<img src="images/projects/bike.png" title="Bicycle response" height="200" class="shadow" />
+  <figcaption>Bicycle response</figcaption>
+</figure> 
+<em>Critical gas: Measuring the bicycle use response to gas prices</em><br>
+An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
 
 <!-- Co-author links -->
 
