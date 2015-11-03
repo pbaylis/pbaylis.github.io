@@ -13,7 +13,7 @@ title: Patrick Baylis | research
 ##Job Market Paper
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
-  <figcaption>Effect of temperature on human sentiment</figcaption>
+  <figcaption>Effect of temperature on hedonic state/figcaption>
 </figure> 
 <em>Temperature and Temperament</em><br>
 <!-- SHORT -->
@@ -23,11 +23,7 @@ title: Patrick Baylis | research
 <!-- ? -->
 
 <!-- LONG -->
-A growing literature in environmental economics documents the causal effects of climate on a range of economic outcomes. Since many of these outcomes are directly or indirectly dependent on human behavior, understanding the effects of temperature on affect, a critical element in decision-making, is essential for the design of appropriate policy responses to climate change. 
-
-In service of that goal, this paper builds a rich, novel dataset on human emotion to document the causal effects of weather on affect. By using a geographically and temporally dense corpus of Twitter status updates with over 600 million observations and a set of both human- and machine-trained sentiment analysis algorithms, I estimate a consistent non-linear relationship: affect rises slightly in temperature from about 0 F to 20 F, is stable between 20 F and 60 F, and slopes downward above 60 F. These results are stylistically similar to findings on the effect of temperature on other outcomes, such as income and crime. Taken on their own, they have implications for both our understanding of the effect of environment on human behavior and suggest a channel for many of the documented effects of climate change. 
-
-An extensive series of robustness checks enhances confidence in the results. Notably, I demonstrate consistent effects across multiple measures of human affect and confirm that the results are not driven by users with higher or lower native affect choosing to tweet at different temperatures. 
+What is the amenity cost of climate change? A growing literature documents the economic effects of climate change, but most work focuses on estimating the costs of acute impacts like natural disasters and crop failures, rather than the broadly experienced change in amenity value of living in a warmer climate. The evidence that does exist suggests that welfare impacts of the change in amenity value could exceed those of many of the better-known effects of climate change. However, these estimates are obtained using cross-sectional or survey data that may be biased by unobservable factors. I present an alternative method of estimating preferences over temperature by building a rich dataset on hedonic state: a geographically and temporally dense collection of Twitter updates with over a billion observations, scored using a set of both human- and machine-trained sentiment analysis algorithms. These data possess multiple advantages relative to the existing literature: they allow me to account for unobserved cross-sectional and temporal variation, to estimate non-linearities in the response function precisely, and to conduct a detailed analysis of heterogeneity across seasons, geography, and hours of the day. I estimate a consistent, robust relationship across all measures: hedonic state is unaffected by average daily temperatures below 70 F, and slopes sharply downward above 70 F. I conclude with a series of extensions documenting temperature response heterogeneity, other temperature-induced psychological changes, and present a preliminary method to back out a monetary valuation of temperature.
 
 ##Working papers
 
