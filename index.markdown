@@ -13,7 +13,9 @@ title: Patrick Baylis
 Environmental economics, climate change economics, energy economics, behavioral economics, machine-learning and econometrics.
 
 **Short bio** <br>
-I'm a Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental and climate change economics. I specialize in developing new datasets to answer questions of  importance to environmental economics, specifically those related to climate and energy. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics.
+I'm a Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental and climate change economics. I specialize in developing new datasets to answer questions of  importance to environmental economics, specifically those related to climate and energy. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics. 
+
+I am on the economics job market this year. To read about my job market paper and other work, please see my [research][research.html] page. I will be at the AEA meetings in San Francisco January 3-5, 2016. 
 
 I am fortunate to be affiliated with the [Energy Institute at Haas](https://ei.haas.berkeley.edu), Dr. Solomon Hsiang's [Global Policy Lab](http://www.solomonhsiang.com/lab), and the [Electricity Markets and Policy Group](http://emp.lbl.gov/) at Lawrence Berkeley National Laboratory. Professor [Maximilian Auffhammer](http://www.auffhammer.com/) is my academic adviser.
 
