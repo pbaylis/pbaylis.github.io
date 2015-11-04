@@ -7,13 +7,10 @@ title: Patrick Baylis
 
 <a href="images/smiling_dbgranite.jpg"><img src="images/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" /></a>
 
-**Ph.D. Candidate, UC-Berkeley ARE** <br> (2011-present)
+I'm a fifth-year Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental and climate change economics. I specialize in developing new datasets to answer questions of  importance to environmental economics, specifically those related to climate and energy. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics. 
 
 **Research interests** <br>
 Environmental economics, climate change economics, energy economics, behavioral economics, machine-learning and econometrics.
-
-**Short bio** <br>
-I'm a Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental and climate change economics. I specialize in developing new datasets to answer questions of  importance to environmental economics, specifically those related to climate and energy. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics. 
 
 **Job market**<br>
 I am on the economics job market this year. My job market paper seeks to understand the hedonic cost of climate change using data from Twitter. For more detail and my other work, please see my [research](research.html) page. I will be at the AEA meetings in San Francisco January 3-5, 2016. 
