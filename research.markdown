@@ -15,7 +15,8 @@ title: Patrick Baylis | research
 <img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
 </figure> 
-<em>Temperature and Temperament</em><br>
+<em>[Temperature and Temperament: Evidence from a billion tweets][JMP]</em>
+
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
@@ -78,5 +79,5 @@ An increase in the price of gasoline causes both the number of bicycle riders an
 
 <!-- Paper links -->
 [defaultbias]: http://conference.nber.org/confer//2015/SI2015/EEE/Cappers_Fowlie_Spurlock_Todd_Wolfram_Baylis.pdf
-
+[JMP]: files/Baylis_JMP.pdf
 
