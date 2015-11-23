@@ -15,8 +15,7 @@ title: Patrick Baylis | research
 <img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
 </figure> 
-<em>[Temperature and Temperament: Evidence from a billion tweets][JMP]</em>
-
+<em>[Temperature and Temperament: Evidence from a billion tweets][JMP]</em> | Appendix (in progress)
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
@@ -24,7 +23,7 @@ title: Patrick Baylis | research
 <!-- ? -->
 
 <!-- LONG -->
-What is the amenity cost of climate change? A growing literature documents the economic effects of climate change, but most work focuses on estimating the costs of acute impacts like natural disasters and crop failures, rather than the broadly experienced change in amenity value of living in a warmer climate. The estimates that do exist suggest that accounting for the change in amenity values could substantially increase the projected costs of climate change. However, these estimates are obtained using locational choice methods that rely on cross-sectional variation or survey data, both of which may be biased by unobservable factors. This paper presents an alternative method of estimating preferences over temperature that allows me to account for unobserved cross-sectional and temporal variation. To do so, I construct a rich dataset on hedonic state: a geographically and temporally dense collection of Twitter updates with over one billion observations, scored using a set of both human- and machine-trained sentiment analysis algorithms. Using this dataset, I estimate a consistent, robust relationship across all measures: hedonic state is unaffected by average daily temperatures below 70 F, and slopes sharply downward above 70 F. I conclude with a series of extensions documenting temperature response heterogeneity, other temperature-induced psychological changes, and present a preliminary method to back out a monetary valuation of temperature.
+What is the welfare cost of environmental stress? The change in amenity values resulting from temperature increases may be a substantial unaccounted-for cost of climate change. Because there is no explicit market for climate, prior work has relied on cross-sectional variation or survey data to identify this cost. This paper presents an alternative method of estimating preferences over nonmarket goods which accounts for unobserved cross-sectional and temporal variation and allows for precise estimates of nonlinear effects. Specifically, I create a rich dataset on hedonic state: a geographically and temporally dense collection of updates from the social media platform Twitter, scored using a set of both human- and machine-trained sentiment analysis algorithms. Using this dataset, I find limited evidence of temperature effects on hedonic state in low temperatures and strong evidence of a sharp decline in hedonic state above 70 F. This finding is robust across all measures of hedonic state and to a variety of specifications.
 
 ##Working papers
 
