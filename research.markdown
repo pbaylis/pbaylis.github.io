@@ -15,7 +15,7 @@ title: Patrick Baylis | research
 <img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
 </figure> 
-<em>[Temperature and Temperament: Evidence from a billion tweets][JMP]</em> | Appendix (in progress)
+<em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | Appendix (in progress)
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
