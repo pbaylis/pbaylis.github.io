@@ -40,7 +40,7 @@ We study default effects in the context of a large randomized controlled trial o
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
   <figcaption>Load projections</figcaption>
 </figure> 
-<em>Projecting the Impact of Climate Change on US Electricity Load</em> (with [Max Auffhammer][AUFFHAMMER] and [Catherine Hausman][HAUSMAN])<br>
+<em>Projecting the Impact of Climate Change on U.S. Electricity Load</em> (with [Max Auffhammer][AUFFHAMMER] and [Catherine Hausman][HAUSMAN])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to predict changes in electricity demand.
 
 <span><em>Wildfire and Insurance in a Changing Climate</em></span> (with [Judson Boomhower][BOOMHOWER])<br>
@@ -51,10 +51,6 @@ Using large datasets on human expressions, we identify psychological channels th
 
 <span><em>The Impact of Air Pollution on Cognitive Expression</em></span> (with [Nick Obradovich][OBRADOVICH], and [Josh Graff Zivin][GRAFFZIVIN])<br>
 We investigate the effect of air pollution on cognitive impairment using multiple novel measures of cognitive capacity from the social media platform Twitter.
-
-<span><em>Critical Gas: Measuring the Bicycle Usage Response to Gas Prices</em></span><br>
-I construct estimates of the bike usage elasticity to changes in the price of gas, employing a novel panel dataset constructed from Google searches over time.
-
 
 
 <!-- <figure style="float:right; margin:10px 10px 10px 10px;">
@@ -68,8 +64,8 @@ Petroleum refining is a significant source of air pollutants. Using confidential
 <img src="images/projects/bike.png" title="Bicycle response" height="200" class="shadow" />
   <figcaption>Bicycle response</figcaption>
 </figure> 
-<em>Critical gas: Measuring the bicycle use response to gas prices</em><br>
-An increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. I use two datasets to identify the causal effect of changes in the price of gasoline on the level of bicycling in a city.
+<em>Critical Gas: Measuring the Bicycle Usage Response to Gas Prices</em><br>
+I construct estimates of the bike usage elasticity to changes in the price of gas, finding that increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. 
 
 <!-- Co-author links -->
 
