@@ -15,7 +15,7 @@ title: Patrick Baylis | research
 <img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
 </figure> 
-<em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | Appendix (in progress)
+<em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | [Appendix][JMP-appendix]
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
 
@@ -82,7 +82,6 @@ I construct estimates of the bike usage elasticity to changes in the price of ga
 [SPURLOCK]: http://eetd.lbl.gov/people/c-anna-spurlock "Anna Spurlock"
 [TODD]: http://www.annikatodd.com/ "Annika Todd"
 [WOLFRAM]: http://facultybio.haas.berkeley.edu/faculty-list/wolfram-catherine "Catherine Wolfram"Catherine Wolfram"
-
 
 
 <!-- Paper links -->
