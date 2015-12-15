@@ -49,7 +49,7 @@ We model and empirically investigate the interaction between spatial spillovers 
 <span><em>The Psychological Impacts of Climate Change</em></span> (with [Nick Obradovich][OBRADOVICH])<br>
 Using large datasets on human expressions, we identify psychological channels through which climate change will impact economic outcomes.
 
-<span><em>The Impact of Air Pollution on Cognitive Expression</em></span> (with [Nick Obradovich][OBRADOVICH], and [Josh Graff Zivin][GRAFFZIVIN])<br>
+<span><em>The Impact of Air Pollution on Cognitive Expression</em></span> (with [Nick Obradovich][OBRADOVICH], [Josh Graff Zivin][GRAFFZIVIN], and [Matt Neidell][NEIDELL])<br>
 We investigate the effect of air pollution on cognitive impairment using multiple novel measures of cognitive capacity from the social media platform Twitter.
 
 
