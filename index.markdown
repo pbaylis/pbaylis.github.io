@@ -17,7 +17,7 @@ Applied microeconomics, applied econometrics, environmental economics, climate c
 I am on the economics job market this year. My job market paper seeks to understand the hedonic cost of climate change using data from Twitter. For more detail and my other work, please see my [research](research.html) page. I will be at the AEA meetings in San Francisco January 3-5, 2016. 
 
 **Affiliations**<br>
-I am fortunate to be affiliated with the [Energy Institute at Haas](https://ei.haas.berkeley.edu), Dr. Solomon Hsiang's [Global Policy Lab](http://www.solomonhsiang.com/lab), and the [Electricity Markets and Policy Group](http://emp.lbl.gov/) at Lawrence Berkeley National Laboratory. Professor [Maximilian Auffhammer](http://www.auffhammer.com/) is my academic adviser.
+I am fortunate to be affiliated with the [Energy Institute at Haas](https://ei.haas.berkeley.edu), Dr. Solomon Hsiang's [Global Policy Lab](http://www.solomonhsiang.com/lab), and the [Electricity Markets and Policy Group](http://emp.lbl.gov/) at Lawrence Berkeley National Laboratory. Professor [Maximilian Auffhammer](http://www.auffhammer.com/) is my dissertation adviser.
 
 **Contact** <br>
 E-mail: <a href="mailto:pbaylis@berkeley.edu">pbaylis@berkeley.edu</a> <br>
