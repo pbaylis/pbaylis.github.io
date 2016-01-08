@@ -18,9 +18,8 @@ title: Patrick Baylis | research
 <em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | [Appendix][JMP-appendix] 
 
 Blogs: [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) | [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html)
-
 Press: [Washington Post](
-https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) | Time (http://time.com/4172187/temperature-weather-hot-cold-preferences/)
+https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) | [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/)
 
 <!-- SHORT -->
 <!-- Using a geographically and temporally dense corpus of Twitter status updates with nearly half a billion observations, I measure the effect of temperature on human mood, with implications for climate change. -->
