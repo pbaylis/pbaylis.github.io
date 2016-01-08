@@ -12,7 +12,7 @@ title: Patrick Baylis | research
 
 ##Job Market Paper
 <figure style="float:right; margin:10px 10px 10px 10px;">
-<img src="images/projects/temptemp3.png" title="Temperature and Temperament" height="200" class="shadow" />
+<img src="images/projects/temptemp4.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
 </figure> 
 <em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | [Appendix][JMP-appendix] 
