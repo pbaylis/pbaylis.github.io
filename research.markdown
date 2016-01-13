@@ -17,7 +17,7 @@ title: Patrick Baylis | research
 </figure> 
 <em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | [Appendix][JMP-appendix] 
 
-Blogs: [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) | [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) <br>
+Blogs: [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) | [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) | [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)<br>
 Press: [Washington Post](
 https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) | [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) | [Weather Channel](http://www.weather.com/health/news/weather-makes-us-more-miserable) | [Berkeley News](http://news.berkeley.edu/2016/01/11/heat-and-happiness-findings-from-the-twitterverse/)
 
