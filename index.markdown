@@ -14,7 +14,8 @@ I'm a fifth-year Ph.D. Candidate in [Agricultural and Resource Economics at UC-B
 Applied microeconomics, applied econometrics, environmental economics, climate change economics, energy economics
 
 **Job market**<br>
-I am on the economics job market this year. My job market paper seeks to understand the hedonic cost of climate change using data from Twitter. For more detail and my other work, please see my [research](research.html) page. I will be at the AEA meetings in San Francisco January 3-5, 2016. 
+I am delighted to have accepted a one year post-doctoral fellowship starting in 2016 with the [Stanford Center on Food Security and the Environment](http://fse.fsi.stanford.edu/) and an Assistant Professor position at the [Vancouver School of Economics](http://economics.ubc.ca/) at the University of British Columbia starting in 2017.
+<!-- I am on the economics job market this year. My job market paper seeks to understand the hedonic cost of climate change using data from Twitter. For more detail and my other work, please see my [research](research.html) page. I will be at the AEA meetings in San Francisco January 3-5, 2016.  -->
 
 **Affiliations**<br>
 I am fortunate to be affiliated with the [Energy Institute at Haas](https://ei.haas.berkeley.edu), Dr. Solomon Hsiang's [Global Policy Lab](http://www.solomonhsiang.com/lab), and the [Electricity Markets and Policy Group](http://emp.lbl.gov/) at Lawrence Berkeley National Laboratory. Professor [Maximilian Auffhammer](http://www.auffhammer.com/) is my dissertation adviser.
