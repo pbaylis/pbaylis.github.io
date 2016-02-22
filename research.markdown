@@ -10,7 +10,7 @@ title: Patrick Baylis | research
 - Add links to papers
 -->
 
-##Job Market Paper
+## Job Market Paper
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/temptemp4.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
@@ -30,7 +30,7 @@ https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-
 <!-- LONG -->
 What is the welfare cost of environmental stress? The change in amenity values resulting from temperature increases may be a substantial unaccounted-for cost of climate change. Because there is no explicit market for climate, prior work has relied on cross-sectional variation or survey data to identify this cost. This paper presents an alternative method of estimating preferences over nonmarket goods which accounts for unobserved cross-sectional and temporal variation and allows for precise estimates of nonlinear effects. Specifically, I create a rich dataset on hedonic state: a geographically and temporally dense collection of updates from the social media platform Twitter, scored using a set of both human- and machine-trained sentiment analysis algorithms. Using this dataset, I find limited evidence of negative temperature effects on hedonic state in low temperatures and strong evidence of a sharp decline in hedonic state above 70 F (21 C). This finding is robust across all measures of hedonic state and to a variety of specifications.
 
-##Working papers
+## Working papers
 
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/defaultbias.png" title="Default Bias" height="200" class="shadow" />
