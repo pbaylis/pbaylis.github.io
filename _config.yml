@@ -3,5 +3,4 @@ pygments: true
 
 permalink: /posts/:year/:month/:day/:title/
 
-
-markdown: rdiscount
+# markdown: rdiscount # Deprecated. Why did I use this again? Something with lists.
