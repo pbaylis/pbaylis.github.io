@@ -39,7 +39,7 @@ What is the welfare cost of environmental stress? The change in amenity values r
 <em>[Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs][defaultbias]</em> (with [Peter Cappers][CAPPERS], [Meredith Fowlie][FOWLIE], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], and [Catherine Wolfram][WOLFRAM])<br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
-##Work in progress
+## Work in progress
 
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
