@@ -9,10 +9,13 @@ Taking the average value of rasters by polygon is slow in R. Really slow. Using 
 
 The [`rasterstats`](http://pythonhosted.org/rasterstats/) package in Python offers a faster solution, but can be tricky to install, particularly in Windows:
 
-1. Install [Anaconda Python](pip install GDAL-1.11.2-cp27-none-win32.whl) (trying to upgrade `pip` broke it, so I just reinstalled Ananconda)
-2. Install `gdal 1.11.4` (not 2.0), `fiona`, `rasterio`, and `Shapely`
-    * May need to install some from [binaries](http://www.lfd.uci.edu/~gohlke/pythonlibs/) if using Windows
-3. Install `rasterstats`
+- Install [Anaconda Python](pip install GDAL-1.11.2-cp27-none-win32.whl) (trying to upgrade `pip` broke it, so I just reinstalled Ananconda)
+
+- Install `gdal 1.11.4` (not 2.0), `fiona`, `rasterio`, and `Shapely`
+    
+    + May need to install some from [binaries](http://www.lfd.uci.edu/~gohlke/pythonlibs/) if using Windows
+
+- Install `rasterstats`
 
 Sample code to run zonal statistics and save the result to CSV.
 
