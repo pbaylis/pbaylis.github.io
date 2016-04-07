@@ -48,14 +48,14 @@ We study default effects in the context of a large randomized controlled trial o
 <em>Projecting the Impact of Climate Change on U.S. Electricity Load</em> (with [Max Auffhammer][AUFFHAMMER] and [Catherine Hausman][HAUSMAN])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to predict changes in electricity demand.
 
-<span><em>Wildfire and Insurance in a Changing Climate</em></span> (with [Judson Boomhower][BOOMHOWER])<br>
-We model and empirically investigate the interaction between spatial spillovers of wildfire prevention and the competitive structure of the fire insurance industry.
-
-<span><em>The Psychological Impacts of Climate Change</em></span> (with [Nick Obradovich][OBRADOVICH])<br>
-Using large datasets on human expressions, we identify psychological channels through which climate change will impact economic outcomes.
+<!-- <span><em>Wildfire and Insurance in a Changing Climate</em></span> (with [Judson Boomhower][BOOMHOWER])<br>
+We model and empirically investigate the interaction between spatial spillovers of wildfire prevention and the competitive structure of the fire insurance industry. -->
 
 <span><em>The Impact of Air Pollution on Cognitive Expression</em></span> (with [Nick Obradovich][OBRADOVICH], [Josh Graff Zivin][GRAFFZIVIN], and [Matt Neidell][NEIDELL])<br>
 We investigate the effect of air pollution on cognitive impairment using multiple novel measures of cognitive capacity from the social media platform Twitter.
+
+<span><em>The Psychological Impacts of Climate Change</em></span> (with [Nick Obradovich][OBRADOVICH])<br>
+Using large datasets on human expressions, we identify psychological channels through which climate change will impact economic outcomes.
 
 
 <!-- <figure style="float:right; margin:10px 10px 10px 10px;">
@@ -65,12 +65,12 @@ We investigate the effect of air pollution on cognitive impairment using multipl
 <em>Refinery pollution and respiratory health</em><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.   -->
 
-<figure style="float:right; margin:10px 10px 10px 10px;">
+<!-- <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/bike.png" title="Bicycle response" height="200" class="shadow" />
   <figcaption>Bicycle response</figcaption>
 </figure> 
 <em>Critical Gas: Measuring the Bicycle Usage Response to Gas Prices</em><br>
-I construct estimates of the bike usage elasticity to changes in the price of gas, finding that increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase. 
+I construct estimates of the bike usage elasticity to changes in the price of gas, finding that increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase.  -->
 
 <!-- Co-author links -->
 
