@@ -8,7 +8,7 @@ title: Patrick Baylis
 <a href="images/smiling_dbgranite.jpg"><img src="images/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" /></a>
 
 **Short bio** <br>
-I'm a fifth-year Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental economics and applied econometrics. I specialize in developing new datasets to answer questions about the impacts of climate change and how we might adapt to them, and how we consume energy services. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics. 
+Ph.D. Candidate in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), focusing on environmental economics and applied econometrics. I specialize in developing new datasets to answer questions about the impacts of climate change and how we might adapt to them, and how we consume energy services. My research supplements traditional techniques in applied econometrics with modern approaches from computer science, psychology, and computational linguistics. 
 
 **Research interests** <br>
 Applied microeconomics, applied econometrics, environmental economics, climate change economics, energy economics
