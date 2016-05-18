@@ -5,8 +5,6 @@ date:   2016-05-18
 categories: python, MongoDB, JSON, Twitter
 ---
 
----
-
 The Twitter Streaming API returns each tweet as a JSON. My current implementation transforms that multi-level JSON object into a flat set of key-value pairs and saves those to a SQLite database. That transformation does not preserve the considerable amount of data available in the JSON, however.
 
 Today, I wanted to determine better strategy for saving the entire JSON. Major considerations are, in no particular order, storage space required, ability to consume throughput, and the time required to extra the raw data into a format ready for analysis. My working assumption from is that client will be consuming roughly 2.4 million tweets per day, though in reality it is probably more like 1.5. Three options on the table, including the current system:
