@@ -14,34 +14,34 @@ Today, I wanted to determine better strategy for saving the entire JSON. Major c
 1. Current system: Save to relational DB on download
     - Pros
         - 0.3 gb per day (roughly)
-    - Fairly fast to move to analysis
-    - Could be better for real-time
-  - Cons
-    - Lossy, we may want data for other projects
-    - Kludgy code, data transformations make it more breakable
+        - Fairly fast to move to analysis
+        - Could be better for real-time
+    - Cons
+        - Lossy, we may want data for other projects
+        - Kludgy code, data transformations make it more breakable
 2. JSON files: Save raw JSON, compress all tweets at the end of the day
-  - Pros
-    - Saves all data
-    - No need to deal with MongoDB
-    - When updating dataset, can just import dates not already included
-    - Cleaner code
-  - Cons
-    - 1 gb per day (using daily `bz2` compression)
-    - 2.4m files created per day (file system stress)
-    - Compression is time-consuming (file system stress)
-    - Preparation for analysis could be time-consuming
-    - (Long-term) Difficult to use for real-time system?
+    - Pros
+        - Saves all data
+        - No need to deal with MongoDB
+        - When updating dataset, can just import dates not already included
+        - Cleaner code
+    - Cons
+        - 1 gb per day (using daily `bz2` compression)
+        - 2.4m files created per day (file system stress)
+        - Compression is time-consuming (file system stress)
+        - Preparation for analysis could be time-consuming
+        - (Long-term) Difficult to use for real-time system?
 3. MongoDB: Save JSON to MongoDB
-  - Pros
-    - Saves all data
-    - Little stress on file system
-    - Transformation to data analysis should be easier than with files
-    - Elegant, cleaner code
-  - Cons
-    - 1 gb per day (using zlib)
-      - `zlib` compression is comparable to `bz2`; code below
-      `db.create_collection('test', storageEngine={'wiredTiger':{'configString':'block_compressor=zlib'}})
-      `
-    - Lack of knowledge about using MongoDB: unknown unknowns?
+    - Pros
+        - Saves all data
+        - Little stress on file system
+        - Transformation to data analysis should be easier than with files
+        - Elegant, cleaner code
+    - Cons
+        - 1 gb per day (using zlib)
+        - `zlib` compression is comparable to `bz2`; code below
+        `db.create_collection('test', storageEngine={'wiredTiger':{'configString':'block_compressor=zlib'}})
+        `
+        - Lack of knowledge about using MongoDB: unknown unknowns?
 
 Until I have a server with a sufficient amount of space, I'm inclined to let the linux box continue to do its thing. Once I have access to a server with 1TB+ space, I like the MongoDB option.
