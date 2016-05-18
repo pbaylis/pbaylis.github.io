@@ -1,4 +1,10 @@
-Streaming Tweets and MongoDB
+---
+layout: post
+title:  "How to save a stream of tweets"
+date:   2016-05-18
+categories: python, MongoDB, JSON, Twitter
+---
+
 ---
 
 The Twitter Streaming API returns each tweet as a JSON. My current implementation transforms that multi-level JSON object into a flat set of key-value pairs and saves those to a SQLite database. That transformation does not preserve the considerable amount of data available in the JSON, however.
@@ -37,4 +43,4 @@ Today, I wanted to determine better strategy for saving the entire JSON. Major c
       `
     - Lack of knowledge about using MongoDB: unknown unknowns?
 
-Until I have a server with a sufficient amount of space, I'm inclined to let the linux box continue to do its thing. Once I have access to a server with 1TB+ space, I like the MongoDB option. 
+Until I have a server with a sufficient amount of space, I'm inclined to let the linux box continue to do its thing. Once I have access to a server with 1TB+ space, I like the MongoDB option.
