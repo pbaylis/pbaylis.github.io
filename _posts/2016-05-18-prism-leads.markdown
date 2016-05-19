@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PRISM uses leads DRAFT"
+title:  "Yesterday's Maximum Temperature is... Today's Maximum Temperature?"
 date:   2016-05-18
 categories: PRISM, weather, climate
 ---
