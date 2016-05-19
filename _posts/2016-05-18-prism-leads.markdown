@@ -21,8 +21,8 @@ The last sentence is important: because a day runs from 4am-4am PST and because 
 
 ![Diagram](/images/prism_dates_example.png)
 
-Date       | tmin | tmax | ppt
------------|------|------|-----
-2016-05-02 | 10   | 20   | 0   | <-- Refers to 2016-05-01
+The above is a plot of temperature over about two days, representing a possible set of high-frequency temperature data being summarized by the PRISM daily data. The orange dots in the diagram are the observations used to determine the daily maximum temperature for the two days, while the blue dots are the daily minimum temperatures. Because of the "PRISM day" definition, the actual observations for the hottest hours (tmax) are both actually from the day prior to the date that they'll be tagged with in the data, while one of the coldest hours (tmin) is for the day prior, while the other is from the same day. In this case, the latter means that the tmin for two consecutive days actually come from observations only a few hours apart, but on either side of the 4am barrier.
 
-But this wasn't intuitive to us, so Kenny got in touch with some of the researchers at PRISM, who were kind enough to respond to our queries. They confirmed that this is the case. What does this mean? Well, suppose that a researcher is interested in using the PRISM data for an analysis on the East Coast
+This wasn't intuitive to Kenny, so he got in touch with some of the researchers at PRISM, who were kind enough to respond to our queries. They confirmed that this is the case. As a further confirmation, I compare PRISM data to hourly weather station data from [NOAA](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/quality-controlled-local-climatological-data-qclcd), aggregated it to the daily level using a midnight-to-midnight definition. I found that the PRISM leads, i.e., observations from the next day, correlated more strongly with my aggregated data. The difference was substantial (0.92 to 0.98) for tmax, and less so for tmin (0.94 to 0.96), which should be expected given the diagram above: most temperature maximums will be draw from the day before, but only some temperature maximums.
+
+To be clear, we are not suggesting that the PRISM group is doing anything wrong. Their definition matches a widely used definition of how to appropriately code weather data (INSERT REFERENCES). But researchers using their data to look at daily relationships, or interpolating between daily minimums and maximums (INSERT REFERENCES) to reproduce a more natural cycle, should be careful.
