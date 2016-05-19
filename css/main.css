@@ -26,20 +26,13 @@ h2 {
   font-size: 120%; }
 
 h3, h4, h5, h6  {
-  font-size: 110%; 
+  font-size: 110%;
   text-decoration:underline;
   }
 
 h1, h2 { margin-bottom: 1em; }
 
 p { margin: 1em 0; }
-
-em  {
-  font-size: 110%; 
-  font-style: normal;
-  text-decoration:underline;
-  }
-
 
 a         { color: #708090; text-decoration: none; }
 a:hover   { color: #708090; text-decoration: none; }
@@ -54,10 +47,10 @@ hr {
     border: 0;
     margin: 10px;
     height: 1px;
-    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
-    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:    -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:     -ms-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
+    background-image:      -o-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));
 }
 
 /*****************************************************************************/
@@ -195,12 +188,12 @@ ul {
   position:relative;
 }
 
-#popup img { display:none; 
+#popup img { display:none;
 }
 
 
-#popup:hover img { 
-  display: block; 
+#popup:hover img {
+  display: block;
   position: absolute;
   top: 20px;
   left: 20px;
