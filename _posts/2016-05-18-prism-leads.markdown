@@ -25,7 +25,7 @@ The above is a plot of temperature over about two days, representing a possible 
 
 This wasn't intuitive to Kendon, so he got in touch with some of the researchers at PRISM, who were kind enough to respond to our queries. They confirmed that this is the case. As a further confirmation, I compared PRISM data to hourly weather station data from [NOAA's Quality Controlled Local Climatological Data](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/quality-controlled-local-climatological-data-qclcd) (QCLCD), aggregated it to the daily level using a midnight-to-midnight definition. Then I matched the two together and compared PRISM daily observations from the grid cell nearest to a weather station to the data from QCLCD dataset. The table below shows the pairwise correlations between the PRISM day-of observations, leads (next day), and the QCLCD data for both maximum and minimum daily temperature.
 
-| PRISM day-of        | PRISM lead |
+- | PRISM day-of        | PRISM lead |
 --------------------|------------|------
 Maximum temperature | 0.934      | 0.995
 Minimum temperature | 0.970      | 0.980
