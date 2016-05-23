@@ -10,11 +10,11 @@ title: Patrick Baylis | research
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/temptemp4.png" title="Temperature and Temperament" height="200" class="shadow" />
   <figcaption>Effect of temperature on hedonic state</figcaption>
-</figure> 
-<em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em> | [Appendix][JMP-appendix] 
+</figure>
+<em>[Temperature and Temperament: Evidence from a Billion Tweets][JMP]</em>
 
 Blogs: [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) | [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) | [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
-<br> 
+<br>
 Press: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) | [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) | [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) | [Weather Channel](http://www.weather.com/health/news/weather-makes-us-more-miserable) | [Berkeley News](http://news.berkeley.edu/2016/01/11/heat-and-happiness-findings-from-the-twitterverse/) | [UC Newsroom](http://universityofcalifornia.edu/news/what-billion-tweets-tell-us-about-climate-change) | [ChicagoInno](http://chicagoinno.streetwise.co/2016/01/14/global-warming-and-mood-warmer-temperatures-make-us-grumpy/)
 
 <!-- SHORT -->
@@ -29,7 +29,7 @@ What is the welfare cost of environmental stress? The change in amenity values r
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/defaultbias.png" title="Default Bias" height="200" class="shadow" />
   <figcaption>Hourly effects of pricing programs by group</figcaption>
-</figure> 
+</figure>
 <em>[Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs][defaultbias]</em> (with [Peter Cappers][CAPPERS], [Meredith Fowlie][FOWLIE], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], and [Catherine Wolfram][WOLFRAM])<br>
 We study default effects in the context of a large randomized controlled trial of electricity pricing strategies. By comparing results from both opt-in and opt-out treatment groups, we are able to estimate the effect of the program on "complacent" customers, i.e. customers who only enroll in the program when placed in opt-out treatment group. We find that though complacent households save less energy per customer, in aggregate they have a greater effect than customers who opt-in due to dramatically higher enrollment rates in the opt-out group.
 
@@ -38,7 +38,7 @@ We study default effects in the context of a large randomized controlled trial o
 <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/projectload.png" title="Load projections" height="200" class="shadow" />
   <figcaption>Load projections</figcaption>
-</figure> 
+</figure>
 <em>Projecting the Impact of Climate Change on U.S. Electricity Load</em> (with [Max Auffhammer][AUFFHAMMER] and [Catherine Hausman][HAUSMAN])<br>
 Using a panel of disaggregated electricity demand consumption data that covers the entire United States, we link a statistically estimated relationship between temperature and load to a set of 20 climate models to predict changes in electricity demand.
 
@@ -55,14 +55,14 @@ Using large datasets on human expressions, we identify psychological channels th
 <!-- <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/respHealth.jpg" title="Refinery pollution and respiratory health" height="200" class="shadow" />
   <figcaption>Respiratory hospital admissions and refinery events</figcaption>
-</figure> 
+</figure>
 <em>Refinery pollution and respiratory health</em><br>
 Petroleum refining is a significant source of air pollutants. Using confidential health data and an original dataset on refinery outages, I estimate the short-term effect of refinery emissions on hospital admissions for respiratory issues.   -->
 
 <!-- <figure style="float:right; margin:10px 10px 10px 10px;">
 <img src="images/projects/bike.png" title="Bicycle response" height="200" class="shadow" />
   <figcaption>Bicycle response</figcaption>
-</figure> 
+</figure>
 <em>Critical Gas: Measuring the Bicycle Usage Response to Gas Prices</em><br>
 I construct estimates of the bike usage elasticity to changes in the price of gas, finding that increase in the price of gasoline causes both the number of bicycle riders and the interest in bicycling to increase.  -->
 
@@ -86,5 +86,4 @@ I construct estimates of the bike usage elasticity to changes in the price of ga
 <!-- Paper links -->
 
 [defaultbias]: http://conference.nber.org/confer/2015/SI2015/EEE/Cappers_Fowlie_Spurlock_Todd_Wolfram_Baylis.pdf "Default effects"
-[JMP]: files/Baylis_JMP.pdf "JMP"
-[JMP-appendix]: files/Baylis_JMPAppendix.pdf "JMP Appendix"
+[JMP]: files/Baylis_TT.pdf "JMP"
