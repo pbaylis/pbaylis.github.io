@@ -9,6 +9,6 @@ title: Patrick Baylis
 
 Environmental economist and applied econometrician, primarily focused on the impacts of climate change and electricity economics.
 
-Postdoctoral fellow at the [Stanford Center on Food Security and the Environment](http://fse.fsi.stanford.edu/). Former Ph.D. student in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu). Future Assistant Professor at the [Vancouver School of Economics](http://economics.ubc.ca/) at the University of British Columbia starting in 2017.
+Postdoctoral fellow at the [Stanford Center on Food Security and the Environment](http://fse.fsi.stanford.edu/), former Ph.D. student in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), and future Assistant Professor at the [Vancouver School of Economics](http://economics.ubc.ca/), University of British Columbia (starting 2017).
 
 E-mail: <a href="mailto:baylis@stanford.edu">baylis@stanford.edu</a> <br>
