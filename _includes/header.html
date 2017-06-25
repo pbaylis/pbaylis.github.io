@@ -1,0 +1,18 @@
+<header class="site-header">
+
+  <div class="site-title">
+    <a href="{{ site.baseurl }}/" title="Home page">Patrick Baylis</a>
+  </div>
+
+  <nav class="site-nav">
+    {% for link in site.navigation %}
+      {% assign current = nil %}
+      {% if page.url contains link.url %}
+        {% assign current = 'class="current"' %}
+      {% endif %}
+    <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.desc %} title="{{ link.desc }}" {% endif %}>{{ link.title }}</a>
+    {% endfor %}
+  </nav>
+
+</header>
+<!-- site-header -->

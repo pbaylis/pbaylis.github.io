@@ -1,65 +1,24 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<html lang="en">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+  {% include head.html %}
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  <body class="bodystyle">
+    <!-- MathJAX include-->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
 
-		<!-- Google Analytics tracking code -->
-		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <div class="site">
 
-		  ga('create', 'UA-47595508-1', 'auto');
-		  ga('send', 'pageview');
+      {% include header.html %}
 
-		</script>
-        <!-- Load Font Awesome: http://fortawesome.github.io/Font-Awesome/get-started/ -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+      <div class="site-content">
+        {{ content }}
+      </div>
+      <!-- site-content -->
 
-        <!-- Load Google Web Fonts -->
-        <link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
-    </head>
-    <body>
+    </div>
 
-        <div class="container">
-          <div class="site">
-	      <div class="sidebar">
-		<div class="header">
-		  <h2 class="title"><a href="/">{{ site.name }}</a></h2>
-          <a href="mailto:pbaylis@berkeley.edu"><i class="fa fa-envelope-square" target="_blank"></i></a>
-          <a href="https://github.com/pbaylis/"><i class="fa fa-github-square" target="_blank"></i></a>
-          <!-- <a href="https://twitter.com/pbaylis"><i class="fa fa-twitter-square"  target="_blank"></i></a> -->
-		</div>
-        <br>
-		<a href="/index.html">home</a>
-		<br>
-        <a href="/files/Baylis_CV.pdf">cv</a>
-        <br>
-		<!-- <a href="/posts.html">posts</a>
-        <br> -->
-		<a href="/research.html">research</a>
-        <br>
-        <a href="/code.html">code</a>
-        <br>
-		<a href="/teaching.html">teaching</a>
+  </body>
 
-	      </div>
-
-	      <div id="home">
-              {{ content }}
-	      <br>
-	      </div>
-        </div>
-        </div> <!-- /container -->
-    </body>
 </html>
