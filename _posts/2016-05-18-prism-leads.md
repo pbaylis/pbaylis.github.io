@@ -9,7 +9,7 @@ As readers of this blog know, one way that climate economists project the impact
 
 The [PRISM AN81-d](http://www.prism.oregonstate.edu/documents/PRISM_datasets.pdf) dataset is comprised of daily minimum temperature, maximum temperatures, and precipitation for the continental United States from 1981 to present. It is created by the [PRISM Climate Group](http://www.prism.oregonstate.edu/) at Oregon State, and it is *really* nice. Why? It's a gridded data product: it is composed of hundreds of thousands of 4km by 4km grid cells, where the values for each cell are determined by a [complex interpolation method](http://www.prism.oregonstate.edu/documents/Daly2008_PhysiographicMapping_IntJnlClim.pdf) from weather station data that accounts for topological factors. Importantly, it's consistent: there are no discontinuous jumps in the data (see Figure below) and the values are never missing.
 
-![PRISM 30 year normals](/assets/img/PRISM_tmax_30yr_normal_4kmM2_annual.png)
+![PRISM 30 year normals](../../assets/img/PRISM_tmax_30yr_normal_4kmM2_annual.png)
 
 These benefits are well-understood, and many scientists have begun to use the PRISM data for their statistical models (e.g., [Baylis 2016](http://patrickbaylis.com/files/Baylis_JMP.pdf)). However, Kendon recently discovered a particularity of these data that may be important for some researchers: for the most part, tmax values in the PRISM dataset refer to the day *before* the date listed.
 
