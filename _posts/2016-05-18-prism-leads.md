@@ -9,9 +9,9 @@ As readers of this blog know, one way that climate economists project the impact
 
 The [PRISM AN81-d](http://www.prism.oregonstate.edu/documents/PRISM_datasets.pdf) dataset is comprised of daily minimum temperature, maximum temperatures, and precipitation for the continental United States from 1981 to present. It is created by the [PRISM Climate Group](http://www.prism.oregonstate.edu/) at Oregon State, and it is *really* nice. Why? It's a gridded data product: it is composed of hundreds of thousands of 4km by 4km grid cells, where the values for each cell are determined by a [complex interpolation method](http://www.prism.oregonstate.edu/documents/Daly2008_PhysiographicMapping_IntJnlClim.pdf) from weather station data that accounts for topological factors. Importantly, it's consistent: there are no discontinuous jumps in the data (see Figure below) and the values are never missing.
 
-![PRISM 30 year normals](/images/PRISM_tmax_30yr_normal_4kmM2_annual.png)
+![PRISM 30 year normals](/assets/img/PRISM_tmax_30yr_normal_4kmM2_annual.png)
 
-These benefits are well-understood, and many scientists have begun to use the PRISM data for their statistical models (*e.g.*, [Baylis 2016](http://patrickbaylis.com/files/Baylis_JMP.pdf)). However, Kendon recently discovered a particularity of these data that may be important for some researchers: for the most part, tmax values in the PRISM dataset refer to the day *before* the date listed.
+These benefits are well-understood, and many scientists have begun to use the PRISM data for their statistical models (e.g., [Baylis 2016](http://patrickbaylis.com/files/Baylis_JMP.pdf)). However, Kendon recently discovered a particularity of these data that may be important for some researchers: for the most part, tmax values in the PRISM dataset refer to the day *before* the date listed.
 
 The PRISM [documentation](http://prism.nacse.org/documents/PRISM_datasets.pdf) defines a "PRISM day" as:
 
@@ -19,7 +19,7 @@ The PRISM [documentation](http://prism.nacse.org/documents/PRISM_datasets.pdf) d
 
 The last sentence is important: because a day runs from 4am-4am PST and because days are labeled using the endpoint of that time period, *most of the observations from which the daily measures are constructed for a given date are taken from the day prior*. A diagram may be helpful here:
 
-![Diagram](/images/prism_dates_example.png)
+![Diagram](/assets/img/prism_dates_example.png)
 
 The above is a plot of temperature over about two days, representing a possible set of high-frequency temperature data being summarized by the PRISM daily data. The top x-axis is the real date, while the bottom x axis shows which observations are used under the PRISM day definition. The red lines are midnights and the orange (blue) dots in the diagram are the observations used to determine the daily maximum (minimum) temperatures for each PRISM day. Because of the definition of a PRISM day, the actual observations for the hottest hours (tmax) are both actually from the day prior to the date that they'll be tagged with in the data, while one of the coldest hours (tmin) is for the day prior, while the other is from the same day. In this case, the latter means that the minimum temperatures recorded for two consecutive days actually come from observations only a few hours apart, but on either side of the 4am barrier.
 
@@ -27,7 +27,7 @@ This wasn’t intuitive to Kendon, so he got in touch with some of the researche
 
 > Because we have a grace period of +/- 4 hours around our 1200 UTC day definition, most morning observers are included in the current day. Therefore, it is likely that most tmin data will represent the morning of the date in the data. The date is taken from the ending day of the 12-12UTC period.
 
-This is encouraging! Because 12UTC is 4am PST (close to when tmin usually occurs), a strict adherence to the PRISM day would result in some minimum temperatures being included in the current day, and some in the previous day. However, it seems that PRISM usually tries to be consistent and count these in the current day (*i.e.*, the point labeled "04 tmin" above would be reported in the 2007-01-03 PRISM data). In response to Kendon's question that asked if the PRISM tmax observation referred to the previous calendar day, Chris said:
+This is encouraging! Because 12UTC is 4am PST (close to when tmin usually occurs), a strict adherence to the PRISM day would result in some minimum temperatures being included in the current day, and some in the previous day. However, it seems that PRISM usually tries to be consistent and count these in the current day (i.e., the point labeled "04 tmin" above would be reported in the 2007-01-03 PRISM data). In response to Kendon's question that asked if the PRISM tmax observation referred to the previous calendar day, Chris said:
 
 > In most cases, yes, but there will be situations where the tmax occurs after midnight, such as during warm air advection.  This occurs most often in winter, when solar radiation is low and air mass changes have more effect on temperature.
 
@@ -40,7 +40,7 @@ Measure | PRISM day-of        | PRISM lead |
 Maximum temperature | 0.934      | 0.995
 Minimum temperature | 0.970      | 0.980
 
-As you can see, the the PRISM leads, *i.e.*, observations from the next day, correlated more strongly with my aggregated data. The difference was substantial (0.934 to 0.995) for tmax, and less so for tmin (0.970 to 0.980), which should be expected given the diagram above: most temperature maximums will be drawn from the day before, but only some temperature maximums.
+As you can see, the the PRISM leads, i.e., observations from the next day, correlated more strongly with my aggregated data. The difference was substantial (0.934 to 0.995) for tmax, and less so for tmin (0.970 to 0.980), which should be expected given the diagram above: most temperature maximums will be drawn from the day before, but only some temperature minimums.
 
 So who should be concerned about this? Mostly, researchers with econometric models that use daily variation in temperature on the right-hand side, and fairly high frequency variables on the left-hand side. As is, using the PRISM daily tmax data amounts to estimating a model that includes lagged rather than day-of temperature.
 
