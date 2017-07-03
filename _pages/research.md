@@ -20,7 +20,7 @@ permalink: /research/
 - [Meredith Fowlie][FOWLIE], [Catherine Wolfram][WOLFRAM], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], Patrick Baylis, and [Peter Cappers][CAPPERS]. Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs. Submitted.
   - [NBER Working Paper][defaultbias]
 - [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. Submitted.
-- Patrick Baylis, [Nick Obradovich][OBRADOVICH], [Yury Kryvasheyeu][KRYVASHEYEU], [Caron Chen][CHEN], [Lorenzo Coviello][COVIELLO], [Esteban Moro][MORO], [Manuel Cebrian][CEBRIAN], and [James Fowler][FOWLER]. Climate change may impact human mood. Submitted.
+- Patrick Baylis, [Nick Obradovich][OBRADOVICH], [Yury Kryvasheyeu][KRYVASHEYEU], [Caron Chen][CHEN], [Lorenzo Coviello][COVIELLO], [Esteban Moro][MORO], [Manuel Cebrian][CEBRIAN], and [James Fowler][FOWLER]. Weather impacts expressed sentiment. Submitted.
 
 <!-- Co-author links -->
 
@@ -52,6 +52,6 @@ permalink: /research/
 
 <!-- Paper links -->
 
-[defaultbias]: http://conference.nber.org/confer/2015/SI2015/EEE/Cappers_Fowlie_Spurlock_Todd_Wolfram_Baylis.pdf "Default effects"
+[defaultbias]: http://www.nber.org/papers/w23553.pdf "Default effects"
 [JMP]: /assets/pdf/Baylis_TT.pdf "JMP"
 [JMPAPPENDIX]: /assets/pdf/Baylis_TT_Appendix.pdf "JMP Appendix"
