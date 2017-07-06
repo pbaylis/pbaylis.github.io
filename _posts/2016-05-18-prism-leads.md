@@ -5,7 +5,7 @@ date:   2016-05-18
 categories: PRISM, weather, climate
 ---
 
-You may not know this, but Khalil Gibran was actually thinking about weather data when he wrote that *yesterday is but today's memory, and tomorrow is today's dream.* (Okay, not really.)
+You may not know this, but Kahlil Gibran was actually thinking about weather data when he wrote that *yesterday is but today's memory, and tomorrow is today's dream.* (Okay, not really.)
 
 Bad literary references aside, readers of this blog know that climate economists project the impacts of climate change is by observing the relationships between historical weather realizations and economic outcomes. Fellow former ARE PhD [Kendon Bell](http://globalpolicy.science/kendon-bell/) alerted me to an idiosyncrasy in one of the weather datasets we frequently use in our analyses. Since many of us (myself included) rely on high-quality daily weather data to do our work, I investigated. This post is a fairly deep dive into what I learned, so if you happen to not be interested in the minutiae of daily weather data, consider yourself warned.
 
