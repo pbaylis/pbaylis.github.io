@@ -12,7 +12,7 @@ Bad literary references aside, readers of this blog know that climate economists
 The [PRISM AN81-d](http://www.prism.oregonstate.edu/documents/PRISM_datasets.pdf) dataset is daily minimum and maximum temperatures, precipitation, and minimum and maximum vapor pressure deficit data for the continental United States from 1981 to present. It is created by the [PRISM Climate Group](http://www.prism.oregonstate.edu/) at Oregon State, and it is *really* nice. Why? It's a gridded data product: it is composed of hundreds of thousands of 4km by 4km grid cells, where the values for each cell are determined by a [complex interpolation method](http://www.prism.oregonstate.edu/documents/Daly2008_PhysiographicMapping_IntJnlClim.pdf) from weather station data ([GHCN-D](https://data.noaa.gov/dataset/global-historical-climatology-network-daily-ghcn-daily-version-3)) that accounts for topological factors. Importantly, it's consistent: there are no discontinuous jumps in the data (see figure below) and it's a balanced panel: the observations are never missing.
 
 ![PRISM 30 year normals](/assets/img/PRISM_tmax_30yr_normal_4kmM2_annual.png)
-Source: PRISM Climate Group
+*Source: PRISM Climate Group*
 
 These benefits are well-understood, and as a result many researchers use the PRISM dataset for their statistical models. However, there is a particularity of these data that may be important to researchers making use of the daily variation in the data: most measurements of temperature maximums, and some measurements of temperature minimums, actually refer to the maximum or minimum temperature of the day *before* the date listed.
 
