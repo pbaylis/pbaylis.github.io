@@ -32,9 +32,7 @@ This confirms what I asserted above: most, but not all, GHCN-D stations are morn
 
 The next step is to look empirically at how many minimum and maximum temperature observations are likely to fall before or after the observation time cutoff. To do that, we need some raw weather station data, which I pulled from [NOAA's Quality Controlled Local Climatological Data](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/quality-controlled-local-climatological-data-qclcd) (QCLCD). To get a sense for which extreme temperatures would be reported as occurring on the actual day they occurred, I assumed that all stations would report at 7:25am, the average observation time in the PRISM dataset. The next two figures show histograms of observed maximum and minimum temperatures.
 
-![Histogram of observed maximum temperatures](/assets/img/max_temp_hist.png)
-
-![Histogram of observed minimum temperatures](/assets/img/min_temp_hist.png)
+![Histogram of observed maximum temperatures](/assets/img/max_temp_hist.png) ![Histogram of observed minimum temperatures](/assets/img/min_temp_hist.png)
 
 I've colored the histogram so that all maximum and minimum temperatures after 7:25am are red, indicating that maximum and minimums after that time will be reported as occurring during the following day. As expected, the vast majority of maximum temperatures (>94%) occur after 7:25am. But surprisingly, a good portion (32%) of minimum temperatures do as well. If you're concerned about the large number of minimum temperature observations around midnight, remember that a midnight-to-midnight summary is likely to have this sort of "bump", since days with a warmer-than-usual morning and a colder-than-usual night will have their lowest temperature at the end of the calendar day.
 
