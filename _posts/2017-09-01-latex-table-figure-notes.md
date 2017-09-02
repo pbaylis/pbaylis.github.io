@@ -7,8 +7,8 @@ categories: latex "best practices"
 
 Best practices for including table and figure notes in a document. Uses `threeparttable`. The key for images is to wrap the image in a 1x1 tabular.
 
+{% highlight latex %}
 {% raw  %}
-```
 \documentclass[12pt]{article}
 \usepackage{graphicx}
 \usepackage{booktabs}
@@ -63,5 +63,5 @@ Best practices for including table and figure notes in a document. Uses `threepa
 \end{figure}
 
 \end{document}
-```
 {% endraw  %}
+{% endhighlight %}
