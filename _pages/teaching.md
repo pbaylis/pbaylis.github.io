@@ -4,7 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
-I will be teaching ECON371 (Undergraduate Environmental Economics) in fall 2017 and ECON573 (Graduate Environmental Economics) in spring 2018.
+- ECON 371: Economics of the environment. [Syllabus](/assets/pdf/syllabus_ECON371.pdf).
+- ECON 573: Graduate environmental economics.
 
 <!--
 ## Prior
