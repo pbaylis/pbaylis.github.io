@@ -11,11 +11,10 @@ permalink: /research/
   - [Supplemental information](http://www.pnas.org/content/suppl/2017/02/01/1613193114.DCSupplemental/pnas.1613193114.sapp.pdf)
 
 ## Working papers
-
+- Patrick Baylis and [Judson Boomhower][BOOMHOWER]. Moral Hazard, Forest Fires, and Adaptation to Climate Change. 2018.
 - Patrick Baylis. Temperature and temperament: Evidence from a billion tweets. 2017. Submitted.
   - [Working Paper][JMP]. First version: October 2015.
   - Coverage: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) \| [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) \| [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) \| [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) \| [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) \| [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
-
 - [Meredith Fowlie][FOWLIE], [Catherine Wolfram][WOLFRAM], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], Patrick Baylis, and [Peter Cappers][CAPPERS]. Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs. 2017. Submitted.
   - [NBER Working Paper][defaultbias] (behind paywall)
 - [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. 2017. Submitted.
@@ -26,7 +25,7 @@ permalink: /research/
 [AUFFHAMMER]: http://www.auffhammer.com/ "Max Auffhammer"
 [BASU]: http://www.google.com "Sanjay Basu"
 [BAYSAN]: http://www.google.com "Ceren Basyan"
-[BOOMHOWER]: https://are.berkeley.edu/candidate/Judson-Boomhower "Judson Boomhower"
+[BOOMHOWER]: http://www.judsonboomhower.com "Judson Boomhower"
 [BORENSTEIN]: http://faculty.haas.berkeley.edu/borenste/ "Severin Borenstein"
 [BURKE]: http://www.google.com "Marshall Burke"
 [CAPPERS]: http://emp.lbl.gov/staff/peter-cappers "Peter Cappers"
