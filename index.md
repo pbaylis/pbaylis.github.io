@@ -8,4 +8,4 @@ Environmental and natural resource economist. My work focuses on the economic im
 
 Assistant Professor at the [Vancouver School of Economics](http://economics.ubc.ca/). <!--Formerly, postdoctoral fellow at the [Stanford Center on Food Security and the Environment](http://fse.fsi.stanford.edu/) and Ph.D. student in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu).-->
 
-E-mail: <a href="mailto:pbaylis@gmail.com">pbaylis@gmail.com</a>
+E-mail: <a href="mailto:pbaylis@mail.ubc.ca">pbaylis@mail.ubc.ca</a>
