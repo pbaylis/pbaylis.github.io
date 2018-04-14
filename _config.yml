@@ -10,7 +10,7 @@ permalink: /:year/:title/   # how should we display posts url
 highlighter: rouge
 
 # Meta settings
-email: baylis@stanford.edu
+email: pbaylis@mail.ubc.ca
 author: Patrick Baylis
 twitter_username:
 github_username: pbaylis
