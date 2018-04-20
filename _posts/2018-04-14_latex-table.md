@@ -100,8 +100,7 @@ Container code:
 \end{document}
 ```
 
-
-And finally, what the code produces.
+And finally, what the code produces:
 
 ```latex
 \begin{tabular}{l D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3}}
