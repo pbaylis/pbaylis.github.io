@@ -2,7 +2,18 @@
 layout: page
 title: Blog
 ---
-{% if paginator.page == 1 %}
+
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
+
+
+<!-- {% if paginator.page == 1 %}
   {% for post in site.posts limit: 2 %}
 <link rel="prerender" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
   {% endfor %}
@@ -26,11 +37,11 @@ title: Blog
       {{ post.date | date: "%Y" }}
       </time>
     </a>
-    <!-- Commenting out post description <p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p> -->
+    <p class="post-desc">{% if post.desc %}{{ post.desc }}{% else %}{{ post.excerpt }}{% endif %}</p>
   </li>
   {% endfor %}
 </ul>
-<!-- post-list -->
+
 
 <ol class="pager">
   {% if paginator.previous_page %}
@@ -43,4 +54,4 @@ title: Blog
     <a href="{{ paginator.next_page_path }}">Next</a>
   </li>
   {% endif %}
-</ol>
+</ol> -->
