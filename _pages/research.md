@@ -6,7 +6,8 @@ permalink: /research/
 
 ## Publications
 
-- [Max Auffhamer][AUFFHAMMER], Patrick Baylis, and [Catherine Hausman][HAUSMAN]. Climate change is projected to have severe impacts on the frequency and intensity of peak electricity demand across the United States.  2017. *Proceedings of the National Academy of Sciences* 114(8).
+- Patrick Baylis, [Nick Obradovich][OBRADOVICH], [Yury Kryvasheyeu][KRYVASHEYEU], [Caron Chen][CHEN], [Lorenzo Coviello][COVIELLO], [Esteban Moro][MORO], [Manuel Cebrian][CEBRIAN], and [James Fowler][FOWLER]. Weather impacts expressed sentiment. 2018. *PloS One*, 13(4).
+- [Max Auffhammer][AUFFHAMMER], Patrick Baylis, and [Catherine Hausman][HAUSMAN]. Climate change is projected to have severe impacts on the frequency and intensity of peak electricity demand across the United States.  2017. *Proceedings of the National Academy of Sciences*, 114(8).
   - [Paper](http://www.pnas.org/content/early/2017/01/31/1613193114.full)
   - [Supplemental information](http://www.pnas.org/content/suppl/2017/02/01/1613193114.DCSupplemental/pnas.1613193114.sapp.pdf)
 
@@ -17,8 +18,8 @@ permalink: /research/
   - Coverage: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) \| [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) \| [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) \| [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) \| [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) \| [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
 - [Meredith Fowlie][FOWLIE], [Catherine Wolfram][WOLFRAM], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], Patrick Baylis, and [Peter Cappers][CAPPERS]. Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs. 2017. Submitted.
   - [NBER Working Paper][defaultbias] (behind paywall)
-- [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. 2017. Submitted.
-- Patrick Baylis, [Nick Obradovich][OBRADOVICH], [Yury Kryvasheyeu][KRYVASHEYEU], [Caron Chen][CHEN], [Lorenzo Coviello][COVIELLO], [Esteban Moro][MORO], [Manuel Cebrian][CEBRIAN], and [James Fowler][FOWLER]. Weather impacts expressed sentiment. 2017. Submitted.
+- [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. 2017. Conditionally accepted.
+
 
 <!-- Co-author links -->
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Linear combinations of coeffients in R"
+title:  "Linear combinations of coefficients in R"
 date:   2018-04-12
 categories: r econometrics lincom svycontrast
 ---
