@@ -7,12 +7,12 @@ permalink: /research/
 ## Publications
 
 - Patrick Baylis, [Nick Obradovich][OBRADOVICH], [Yury Kryvasheyeu][KRYVASHEYEU], [Caron Chen][CHEN], [Lorenzo Coviello][COVIELLO], [Esteban Moro][MORO], [Manuel Cebrian][CEBRIAN], and [James Fowler][FOWLER]. Weather impacts expressed sentiment. 2018. *PloS One*, 13(4).
+    - [Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0195750)
 - [Max Auffhammer][AUFFHAMMER], Patrick Baylis, and [Catherine Hausman][HAUSMAN]. Climate change is projected to have severe impacts on the frequency and intensity of peak electricity demand across the United States.  2017. *Proceedings of the National Academy of Sciences*, 114(8).
   - [Paper](http://www.pnas.org/content/early/2017/01/31/1613193114.full)
-  - [Supplemental information](http://www.pnas.org/content/suppl/2017/02/01/1613193114.DCSupplemental/pnas.1613193114.sapp.pdf)
 
 ## Working papers
-- Patrick Baylis and [Judson Boomhower][BOOMHOWER]. Moral Hazard, Forest Fires, and Adaptation to Climate Change. 2018.
+- Patrick Baylis and [Judson Boomhower][BOOMHOWER]. Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 2018.
 - Patrick Baylis. Temperature and temperament: Evidence from a billion tweets. 2017. Submitted.
   - [Working Paper][JMP]. First version: October 2015.
   - Coverage: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) \| [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) \| [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) \| [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) \| [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) \| [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
