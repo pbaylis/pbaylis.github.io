@@ -2,8 +2,10 @@
 layout: post
 title:  "Yesterday's Maximum Temperature is... Today's Maximum Temperature?"
 date:   2016-05-18
-categories: PRISM, weather, climate
+categories: PRISM weather climate
 ---
+
+_Update (July 2017): Reposted on [G-Feed](http://www.g-feed.com/2017/07/yesterdays-maximum-temperature-is.html)_
 
 You may not know this, but Kahlil Gibran was actually thinking about weather data when he wrote that *yesterday is but today's memory, and tomorrow is today's dream.* (Okay, not really.)
 

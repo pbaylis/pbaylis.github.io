@@ -2,8 +2,10 @@
 layout: post
 title:  "Reference manager showdown"
 date:   2015-09-08
-categories: bibliography, reference manager, zotero, docear, bibdesk, mendeley, papers
+categories: bibliography
 ---
+
+_Update (April 2018): I now use [Paperpile](http://paperpile.com). It's not free, but it's very nice._
 
 Part of my job is to read a lot of other people's research. I have a bad memory, so keep tracking of that research is pretty hard, unless I write something down. But in general, I tend to write things down on physical copies of the paper (which I physically lose), text files (which I lose on my computer), or in my head (which might as well be lost the second they are written). I also have no desire to ever write out a bibliography by hand again. What I need is a reference manager with the following required and nice-to-have features:
 

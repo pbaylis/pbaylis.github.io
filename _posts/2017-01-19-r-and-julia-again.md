@@ -5,6 +5,8 @@ date:   2017-01-19
 categories: julia r
 ---
 
+_Update (April 2018): Julia has change quite a bit since the time of this writing. `FixedEffectsModels.jl` still exists, but I still frequently run into strange errors when estimating. As of now, I still resort to sampling and running large regressions in `lfe::felm` in `R`_.
+
 I'm trying to use [Julia](http://julialang.org/), and specifically [FixedEffectsModels.jl](https://github.com/matthieugomez/FixedEffectModels.jl), to run fixed effects regressions more quickly. There are complications:
 
 - What is the quickest way to transfer from R to Julia?

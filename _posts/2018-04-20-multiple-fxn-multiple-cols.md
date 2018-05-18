@@ -5,8 +5,6 @@ date:   2018-04-20
 categories: r data.table
 ---
 
-It's wild how many times I've had to look this up.
-
 ```r
 my.summary = function(x) list(mean = mean(x), median = median(x))
 DT[, as.list(unlist(lapply(.SD, my.summary))), .SDcols = c('a', 'b')]

@@ -3,7 +3,10 @@ layout: post
 title:  "Dealing with a lack of support in fixed effect-dummy variable combinations"
 date:   2017-02-03
 categories: econometrics r
+publish: false
 ---
+
+_Update (May 2018): I think this was mostly based dumb and confusing. Not currently published._
 
 Suppose we want to estimate the effect of, say, binned temperature \\( T_1, T_2, T_3 \\) on an outcome \\( y \\), but we suspect that there are different effects in different regions \\( R_a, R_b \\). Because we want to test if the effects are statistically different by region, we'd prefer to do this in the same regression. Here's the regression model we would run:
 
@@ -11,7 +14,7 @@ $$ y_i = \alpha + \beta_1 R_{bi} + \beta_2 T_{1i} + \beta_3 T_{3i} + \beta_4 [R_
 
 Note that \\( T_2 \\) and \\( R_a \\) are the omitted categories. If we have observations for every combination of region and temperature, here's how we would interpret our results:
 
-Interprations:
+Interpretations:
   - \\( R_a \times T_1 \\): \\( \alpha + \beta_2 \\)
   - \\( R_a \times T_2 \\): \\( \alpha \\)
   - \\( R_a \times T_3 \\): \\( \alpha + \beta_3 \\)
@@ -37,12 +40,12 @@ Then we have the following regression model:
 
 $$ y_i = \alpha + \beta_2 T_{1i} + \beta_3 T_{3i} + \beta_5 [R_b \times T_3]_i + \varepsilon_i $$
 
-And the following intepretations have changed:
+And the following interpretations have changed:
   - \\( R_b \times T_1 \\): \\( \alpha + \beta_2 + \beta_4 \\)
   - \\( R_b \times T_2 \\): NA
   - \\( R_b \times T_3 \\): \\( \alpha + \beta_3 + \beta_5 \\)
 
-Different things happen if the other variables were dropped. Ultimately, the fix here is to just ignore coefficients which don't appear in the final model when summing up. Actually less complicated than I thought. Still, another solution is to either limit bins so that they include all region-temperature combiations (unrealistic in my use case, since my "regions" are actually seasons) or to implement a splined model or something similar.
+Different things happen if the other variables were dropped. Ultimately, the fix here is to just ignore coefficients which don't appear in the final model when summing up. Actually less complicated than I thought. Still, another solution is to either limit bins so that they include all region-temperature combinations (unrealistic in my use case, since my "regions" are actually seasons) or to implement a splined model or something similar.
 
 ---
 

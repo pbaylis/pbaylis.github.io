@@ -2,8 +2,10 @@
 layout: post
 title:  "Work process and Dropbox organization"
 date:   2015-09-08
-categories: research, productivity, dropbox
+categories: research productivity dropbox
 ---
+
+_Update (April 2018): I still do this to a certain extent, but I'm transitioning to using all github projects. See Gentzkow and Shapiro's [lab notes](https://web.stanford.edu/%7Egentzkow/research/CodeAndData.pdf) for related thoughts._
 
 # Work process notes
 
@@ -19,7 +21,7 @@ Winter break is a good time to sit back, reflect on the year, and... reorganize 
 
 1. Converted my note-taking process and most informal writing into markdown. Markdown is, in some ways, an incomplete replacement for org-mode (my previous note-taking methodology) in emacs, but with [SmartMarkdown](https://github.com/demon386/SmartMarkdown) in [Sublime Text 3](http://www.sublimetext.com/), I can at least fold up the sections. Which is 90% of what I was missing from org-mode. Markdown is nice because it can be easily edited with any editor in any operating system, looks almost exactly like plaintext to most people, and can be used to VERY easily generate HTML. Also, a good deal of my work is already in Sublime Text and while knowing emacs did hold a certain cachet, I don't have a strong desire to keep two distinct sets of keyboard shortcuts in mind. Also emacs loads more slowly. Also lisp (and elisp) drive me crazy.
 
-2. Restructered my Dropbox folder.
+2. Restructured my Dropbox folder.
 
 I had the following requirements:
 1. Quick, logical access to data/work

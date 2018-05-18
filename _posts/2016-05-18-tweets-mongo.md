@@ -2,8 +2,10 @@
 layout: post
 title:  "How to save a stream of tweets"
 date:   2016-05-18
-categories: python, MongoDB, JSON, Twitter
+categories: python MongoDB JSON Twitter
 ---
+
+_Update (April 2018): I now save the raw tweets as JSONs and convert to CSVs for processing. I also have a bigger hard drive._
 
 The Twitter Streaming API returns each tweet as a JSON. My current implementation transforms that multi-level JSON object into a flat set of key-value pairs and saves those to a SQLite database. That transformation does not preserve the considerable amount of data available in the JSON, however.
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <a href="assets/img/smiling_dbgranite.jpg"><img src="assets/img/smiling_dbgranite.jpg" alt="headshot" height="300px" class="shadow" style="float:right; margin:10px 10px 10px 10px;" /></a>

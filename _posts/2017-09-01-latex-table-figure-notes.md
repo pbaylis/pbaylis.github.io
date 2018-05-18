@@ -2,8 +2,11 @@
 layout: post
 title:  "Best practices: Table and figure notes"
 date:   2017-09-01
-categories: latex "best practices"
+categories: latex
+published: false
 ---
+
+_Update (May 2018): Deprecated, superceded by April 14 post._
 
 Best practices for including table and figure notes in a document. Uses `threeparttable`. The key for images is to wrap the image in a 1x1 tabular.
 

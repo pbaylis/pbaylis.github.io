@@ -2,8 +2,10 @@
 layout: post
 title:  "Fast Zonal Statistics"
 date:   2016-03-17
-categories: GIS, R, python, zonal statistics, optimization
+categories: zonal-statistics R python
 ---
+
+_Update (April 2018): R now has the `xelox` package which is much faster for this. Also, `fasterize` is a much faster rasterization method._
 
 Taking the average value of rasters by polygon is slow in R. Really slow. Using `extract` with a raster of more than 800k cells (PRISM weather data) and a shapefile of more than 3000 polygons (counties) takes a little over 500 seconds.
 

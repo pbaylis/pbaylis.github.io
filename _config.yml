@@ -3,7 +3,7 @@
 # Site settings
 title: Patrick Baylis               # used for the html title of every page
 desc: Patrick Baylis
-url: http://pbaylis.github.io      # put your website hosting url here
+url: http://patrickbaylis.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
@@ -36,6 +36,9 @@ navigation:
   - title: CV
     url: /assets/pdf/Baylis_CV.pdf
     desc: CV
+  # - title: Posts
+  #   url: /posts/
+  #   desc: Posts
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
@@ -61,5 +64,5 @@ include:
 exclude:
   - README.md
   - vendor
-gems:
+plugins:
   - jekyll-paginate
