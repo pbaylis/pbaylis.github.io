@@ -15,6 +15,7 @@ title: tools
         - Blogdown uses [Hugo](https://gohugo.io), a (much) faster static site generator
         - [Examples of blogdown sites](http://awesome-blogdown.com)
         - Blogdown [academic theme](https://sourcethemes.com/academic/)
+        - Another blogdown [tutorial (Alison Presmanes Hill)](https://support.rbind.io/2017/06/16/academic-site-apreshill/)
 - Other resources
     - [Ed Rubin's homepage](http://edrub.in): Ed has a more extensive list of tools
 - R packages
