@@ -18,7 +18,7 @@ permalink: /research/
   - Coverage: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) \| [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) \| [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) \| [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) \| [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) \| [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
 - [Meredith Fowlie][FOWLIE], [Catherine Wolfram][WOLFRAM], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], Patrick Baylis, and [Peter Cappers][CAPPERS]. Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs. 2017. Submitted.
   - [NBER Working Paper][defaultbias] (behind paywall)
-- [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. 2017. Conditionally accepted.
+- [Marshall Burke][BURKE], [Ceren Baysan][BAYSAN], [Felipe Gonzalez][GONZALES], Patrick Baylis, [Sam Heft-Neal][HEFTNEAL], [Sanjay Basu][BASU], and [Solomon Hsiang][HSIANG]. Warming increases suicide rates in the United States and Mexico. 2017. Revisions requested.
 
 
 <!-- Co-author links -->
