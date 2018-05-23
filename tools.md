@@ -22,3 +22,5 @@ title: tools
     - [`fst` R package](http://www.fstpackage.org): fast data serialization
 - LaTeX
     - [Beamer tips (Paul Goldsmith-Pinkham)](https://paulgp.github.io/beamer_tips.pdf)
+- Git
+    - [GitLab](https://about.gitlab.com): I'm not sure what this is or if I should use it but it looks interesting
