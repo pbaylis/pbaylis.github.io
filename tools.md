@@ -3,11 +3,11 @@ layout: page
 title: tools
 ---
 
-Economics resources:
+### Economics resources
 
 - [Environmental and resource economics conferences (Casey Wichman)](http://caseyjwichman.com/resources/)
 
-Technical tools:
+### Technical tools
 
 - Website generation
     - [Jekyll](https://jekyllrb.com): Static site generator; what this site is built on

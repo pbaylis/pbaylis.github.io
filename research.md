@@ -13,7 +13,7 @@ permalink: /research/
 
 ## Working papers
 - Patrick Baylis and [Judson Boomhower][BOOMHOWER]. Moral Hazard, Wildfires, and the Economic Incidence of Natural Disasters. 2018.
-- Patrick Baylis. Temperature and temperament: Evidence from a billion tweets. 2017. Submitted.
+- Patrick Baylis. Temperature and Temperament: Evidence from Twitter. 2018. Submitted.
   - [Working Paper][JMP]. First version: October 2015.
   - Coverage: [Popular Science](http://www.popsci.com/science-confirms-obvious-we-hate-being-hot) \| [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/01/07/clear-evidence-that-cold-days-are-better-than-hot-ones/) \| [Time](http://time.com/4172187/temperature-weather-hot-cold-preferences/) \| [Energy Institute](https://energyathaas.wordpress.com/2015/12/07/heat-and-happiness/) \| [G-FEED](http://www.g-feed.com/2015/12/warming-makes-people-unhappy-evidence.html) \| [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2016/01/do-you-get-grumpy-over-seventy-degrees-fahrenheit.html)
 - [Meredith Fowlie][FOWLIE], [Catherine Wolfram][WOLFRAM], [Anna Spurlock][SPURLOCK], [Annika Todd][TODD], Patrick Baylis, and [Peter Cappers][CAPPERS]. Default Effects, Follow-on Behavior and Welfare in Residential Electricity Pricing Programs. 2017. Submitted.
