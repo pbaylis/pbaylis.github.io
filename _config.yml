@@ -30,9 +30,9 @@ navigation:
   - title: Research
     url: /research/
     desc: Research
-  - title: Teaching
-    url: /teaching/
-    desc: Teaching
+  # - title: Teaching
+  #   url: /teaching/
+  #   desc: Teaching
   - title: CV
     url: /assets/pdf/Baylis_CV.pdf
     desc: CV
