@@ -10,4 +10,9 @@ Specifically, my current [research](/research/) includes estimating the impact o
 
 Before I joined UBC, I was a postdoctoral fellow at the [Stanford Center on Food Security and the Environment](http://fse.fsi.stanford.edu/), a Ph.D. student in [Agricultural and Resource Economics at UC-Berkeley](http://areweb.berkeley.edu), and a Research Assistant at the [Energy Institute at Haas](https://ei.haas.berkeley.edu).
 
-You can reach me via e-mail at <a href="mailto:pbaylis@mail.ubc.ca">pbaylis@mail.ubc.ca</a> or on github as [@pbaylis](https://github.com/pbaylis).
+You can reach me via e-mail at <a href="mailto:pbaylis@mail.ubc.ca">pbaylis@mail.ubc.ca</a> or on github as [@pbaylis](https://github.com/pbaylis). To schedule a meeting during office hours, please use the form below.
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/patrick-baylis/office-hours" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
