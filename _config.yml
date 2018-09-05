@@ -36,6 +36,9 @@ navigation:
   - title: CV
     url: /assets/pdf/Baylis_CV.pdf
     desc: CV
+  - title: Office hours
+    url: /office-hours/
+    desc: Office hours
   # - title: Posts
   #   url: /posts/
   #   desc: Posts
