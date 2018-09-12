@@ -1,15 +1,17 @@
 ---
 layout: post
 title:  "Things I forget: RStudio Server red button"
-date:   2018-06-01
+date:   2018-09-10
 categories: r
 ---
 
-How to blow up Rstudio and restart everything (if you have sudo privileges):
+How to blow up Rstudio and restart everything:
 
 ```bash
 rm -rf ~/.rstudio
 rstudio-server kill-all
 ```
+
+Only do this if you know what you are doing. Or at least feeling pretty bold.
 
 Related note: It's a good idea to turn off workspace saving and reloading of `.RData` when using RStudio server.
