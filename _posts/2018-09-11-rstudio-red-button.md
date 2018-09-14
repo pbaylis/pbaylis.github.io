@@ -2,7 +2,7 @@
 layout: post
 title:  "Things I forget: RStudio Server red button"
 date:   2018-09-10
-categories: r
+categories: rstudio
 ---
 
 How to blow up Rstudio and restart everything:

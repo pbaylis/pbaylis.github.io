@@ -2,7 +2,7 @@
 layout: post
 title:  "Debugging in R, RStudio"
 date:   2018-09-11
-categories: r
+categories: r rstudio debugging
 ---
 
 Debugging can be a challenge in RStudio. One of my main frustrations is that once you execute the Run command on a selection of code (i.e., running it in interactive mode), it will send all the commands you selected, _even if one or more of them raises an error_. This often results in me running a full script, even after an error occurs on one of the first few lines of code. In most cases, nothing remaining in the script can run successfully without whatever errored out earlier. For example, suppose I'm executing the following code:
